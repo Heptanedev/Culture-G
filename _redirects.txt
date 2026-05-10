@@ -1,0 +1,2 @@
+# Cloudflare Pages — pas de règles nécessaires
+# Le fallback SPA est géré nativement par Cloudflare
