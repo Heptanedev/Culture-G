@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0a0a0f" id="theme-meta" />
+  <meta name="description" content="Curiosa — Une anecdote de culture générale à chaque instant." />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Curiosa" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Curiosa</title>
+</head>
+<body data-theme="dark">
+
+  <!-- ═══════════════════════════════════════════ HEADER -->
+  <header class="app-header">
+    <div class="header-left">
+      <button class="icon-btn" id="btn-menu" aria-label="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+    <div class="logo">
+      <span class="logo-icon">✦</span>
+      <span class="logo-text">Curiosa</span>
+    </div>
+    <div class="header-right">
+      <button class="icon-btn" id="btn-theme" aria-label="Changer de thème">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+      <button class="icon-btn" id="btn-search" aria-label="Rechercher">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════════ MAIN CARD AREA -->
+  <main class="main-area" id="main-area">
+
+    <!-- Catégory filter pills — générées dynamiquement depuis data.json -->
+    <div class="category-pills" id="category-pills"></div>
+
+    <!-- Card swipe container -->
+    <div class="card-container" id="card-container">
+      <div class="card" id="anecdote-card">
+        <div class="card-inner">
+          <div class="card-badge" id="card-badge">Histoire</div>
+          <div class="card-number" id="card-number">#1</div>
+          <h2 class="card-title" id="card-title">Chargement…</h2>
+          <p class="card-text" id="card-text">Un instant…</p>
+          <div class="card-actions">
+            <button class="card-action-btn" id="btn-favorite" aria-label="Ajouter aux favoris">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            </button>
+            <button class="card-action-btn" id="btn-share" aria-label="Partager">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+            </button>
+          </div>
+        </div>
+        <!-- Swipe hint -->
+        <div class="swipe-hint" id="swipe-hint">
+          <span>← Swipe →</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main CTA button -->
+    <div class="cta-area">
+      <button class="cta-btn" id="btn-next">
+        <span class="cta-label">Une autre anecdote</span>
+        <svg class="cta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </div>
+
+
+  </main>
+
+  <!-- ═══════════════════════════════════════════ SIDE MENU -->
+  <div class="overlay" id="overlay"></div>
+  <aside class="side-menu" id="side-menu">
+    <div class="side-menu-header">
+      <span class="logo">
+        <span class="logo-icon">✦</span>
+        <span class="logo-text">Curiosa</span>
+      </span>
+      <button class="icon-btn" id="btn-close-menu" aria-label="Fermer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+    <nav class="side-nav">
+      <button class="nav-item active" data-view="main">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        Accueil
+      </button>
+      <button class="nav-item" data-view="all">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+        Toutes les anecdotes
+      </button>
+      <button class="nav-item" data-view="favorites">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        Favoris
+      </button>
+      <button class="nav-item" data-view="history">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Historique
+      </button>
+    </nav>
+    <div class="side-footer">
+      <button class="nav-item" id="btn-install">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Ajouter sur l'écran d'accueil
+      </button>
+      <p class="side-version">v1.0 · 100 anecdotes</p>
+    </div>
+  </aside>
+
+  <!-- ═══════════════════════════════════════════ SEARCH MODAL -->
+  <div class="modal" id="search-modal">
+    <div class="modal-inner">
+      <div class="modal-header">
+        <h3>Rechercher</h3>
+        <button class="icon-btn" id="btn-close-search" aria-label="Fermer">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+      <div class="search-input-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="search" id="search-input" placeholder="Mot-clé, catégorie…" autocomplete="off" />
+      </div>
+      <div class="search-results" id="search-results"></div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ SECONDARY VIEWS -->
+  <div class="view-panel" id="panel-all">
+    <div class="panel-header">
+      <button class="icon-btn back-btn" data-back="true" aria-label="Retour">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2>Toutes les anecdotes</h2>
+      <span class="panel-count" id="all-count">100</span>
+    </div>
+    <div class="panel-list" id="list-all"></div>
+  </div>
+
+  <div class="view-panel" id="panel-favorites">
+    <div class="panel-header">
+      <button class="icon-btn back-btn" data-back="true" aria-label="Retour">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2>Favoris</h2>
+      <span class="panel-count" id="fav-count">0</span>
+    </div>
+    <div class="panel-list" id="list-favorites">
+      <div class="empty-state">
+        <span>💫</span>
+        <p>Aucun favori pour l'instant.<br>Appuyez sur ♡ pour en sauvegarder.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="view-panel" id="panel-history">
+    <div class="panel-header">
+      <button class="icon-btn back-btn" data-back="true" aria-label="Retour">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2>Historique</h2>
+      <button class="text-btn" id="btn-clear-history">Effacer</button>
+    </div>
+    <div class="panel-list" id="list-history">
+      <div class="empty-state">
+        <span>📖</span>
+        <p>Aucune anecdote lue encore.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast notification -->
+  <div class="toast" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
