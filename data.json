@@ -1,0 +1,1204 @@
+{
+  "anecdotes": [
+    {
+      "id": 1,
+      "titre": "Le miel éternel",
+      "texte": "En 1922, lors de la fouille du tombeau de Toutankhamon par Howard Carter, des archéologues retrouvèrent des jarres contenant du miel vieux de plus de 3 000 ans — daté d'environ 1 000 av. J.-C. — encore parfaitement consommable. Le miel ne se dégrade pas grâce à son faible taux d'humidité, son pH acide et ses propriétés antibactériennes naturelles.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 2,
+      "titre": "Les pieuvres ont trois cœurs",
+      "texte": "Une pieuvre possède trois cœurs : deux cœurs branchiaux pompent le sang vers les branchies, et un cœur systémique distribue le sang oxygéné dans le reste du corps. Fait notable : lorsqu'elle nage activement, le cœur principal s'arrête temporairement, ce qui explique pourquoi les pieuvres préfèrent ramper plutôt que nager sur de longues distances.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 3,
+      "titre": "Oxford avant les Aztèques",
+      "texte": "L'université d'Oxford a commencé à dispenser des cours dès 1096, soit plus de 330 ans avant la fondation de l'empire aztèque en 1428 à Tenochtitlan (actuel Mexico). Quand l'empire aztèque était à son apogée au XVe siècle, Oxford avait déjà formé des générations de théologiens, philosophes et juristes.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 4,
+      "titre": "La Lune s'éloigne chaque année",
+      "texte": "La Lune s'éloigne de la Terre à raison d'environ 3,82 cm par an, une dérive mesurée grâce aux rétroréflecteurs laser déposés sur la surface lunaire lors des missions Apollo entre 1969 et 1972. Dans environ 600 millions d'années, la Lune sera trop loin pour couvrir entièrement le Soleil, rendant les éclipses solaires totales impossibles depuis la Terre.",
+      "categorie": "espace"
+    },
+    {
+      "id": 5,
+      "titre": "Le claquement des doigts",
+      "texte": "Selon une étude publiée en 2021 dans le Journal of the Royal Society Interface, le claquement des doigts dure moins de 7 millisecondes — trois fois plus rapide qu'un clignement d'œil. Cette vitesse est rendue possible par la compression élastique du doigt qui emmagasine de l'énergie avant de la relâcher brusquement contre la paume.",
+      "categorie": "corps"
+    },
+    {
+      "id": 6,
+      "titre": "La masse totale des fourmis",
+      "texte": "Selon une étude publiée en 2022 dans la revue PNAS, il existe environ 20 000 milliards de fourmis sur Terre. Leur biomasse combinée est évaluée à 12 mégatonnes de carbone sec — supérieure à la biomasse cumulée de tous les oiseaux et mammifères sauvages réunis sur la planète.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 7,
+      "titre": "Alan Turing, père théorique de l'informatique",
+      "texte": "En 1936, le mathématicien britannique Alan Turing publia un article fondateur décrivant la 'machine de Turing', modèle théorique de tout ordinateur moderne — neuf ans avant la construction du premier ordinateur électronique. Pendant la Seconde Guerre mondiale, il contribua à déchiffrer le code Enigma nazi à Bletchley Park, sauvant selon certains historiens des millions de vies.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 8,
+      "titre": "Le silence absolu de l'espace",
+      "texte": "Dans l'espace interstellaire, le son ne peut pas se propager car il nécessite un milieu matériel. Si une supernova se produisait à quelques années-lumière de nous, nous ne l'entendrions pas — même si son énergie lumineuse serait mortelle. Le vide spatial contient en moyenne moins d'un atome par centimètre cube, contre 2,7 × 10¹⁹ molécules par cm³ dans l'air que nous respirons.",
+      "categorie": "espace"
+    },
+    {
+      "id": 9,
+      "titre": "L'eau chaude peut geler plus vite que l'eau froide",
+      "texte": "L'effet Mpemba — observé dès l'Antiquité par Aristote, puis redécouvert en 1963 par le Tanzanien Erasto Mpemba — désigne le phénomène où l'eau chaude peut dans certaines conditions geler plus vite que l'eau froide. En 2016, des chercheurs de l'université de Xi'an proposèrent une explication partielle liée aux liaisons hydrogène, mais le mécanisme reste encore débattu.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 10,
+      "titre": "Le temps passé à cligner des yeux",
+      "texte": "Nous clignons des yeux en moyenne 15 à 20 fois par minute, soit environ 10 000 fois par jour, représentant environ 30 minutes de 'cécité' quotidienne. Notre cerveau comble ces interruptions visuelles par un mécanisme appelé suppression saccadique. Ce réflexe est contrôlé par le noyau facial du tronc cérébral et sert principalement à lubrifier et nettoyer la surface oculaire.",
+      "categorie": "corps"
+    },
+    {
+      "id": 11,
+      "titre": "Groenland et Islande : les noms inversés",
+      "texte": "Le Viking Érik le Rouge, exilé d'Islande vers 982 apr. J.-C., baptisa 'Groenland' (Terre verte) la terre qu'il découvrit pour attirer des colons — alors que 80 % de sa superficie est recouverte de glace. L'Islande, nommée ainsi pour décourager les concurrents, est pourtant relativement verdoyante grâce à son activité volcanique qui réchauffe les sols.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 12,
+      "titre": "La tour Eiffel se dilate en été",
+      "texte": "Construite entre 1887 et 1889 par Gustave Eiffel, la tour peut mesurer jusqu'à 15 à 18 cm de plus en été : le métal de ses 7 300 tonnes d'acier se dilate sous l'effet de la chaleur. Ce phénomène de dilatation thermique fait également légèrement pencher son sommet du côté opposé au Soleil les jours de forte chaleur estivale.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 13,
+      "titre": "L'ADN partagé avec une banane",
+      "texte": "Environ 60 % des gènes humains ont un équivalent fonctionnel chez la banane — essentiellement ceux liés aux fonctions cellulaires fondamentales comme la respiration ou la division cellulaire. Ce chiffre atteint 85 % avec les souris, 96 % avec les gorilles et 98,7 % avec les chimpanzés, notre plus proche cousin évolutif selon les analyses génomiques des années 2000.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 14,
+      "titre": "Le sommeil des dauphins",
+      "texte": "Les dauphins pratiquent le sommeil unilatéral : l'un de leurs deux hémisphères cérébraux dort tandis que l'autre reste éveillé. Ce mécanisme, étudié dès les années 1970 par le chercheur soviétique Lev Mukhametov, leur permet de continuer à respirer (car ce sont des mammifères à respiration pulmonaire) et de maintenir une vigilance minimale contre les prédateurs.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 15,
+      "titre": "La lumière du Soleil a 8 minutes",
+      "texte": "La lumière voyage dans le vide à 299 792 km/s. Depuis la surface du Soleil jusqu'à la Terre — une distance moyenne de 149,6 millions de km — elle met précisément 8 minutes et 20 secondes. Si le Soleil s'éteignait à cet instant, nous continuerions à le voir briller pendant encore 8 minutes avant de plonger dans l'obscurité.",
+      "categorie": "espace"
+    },
+    {
+      "id": 16,
+      "titre": "Plier du papier 42 fois atteint la Lune",
+      "texte": "Si vous pouviez plier une feuille de papier standard (0,1 mm d'épaisseur) exactement 42 fois, l'épaisseur obtenue serait d'environ 440 000 km — soit plus que la distance Terre-Lune de 384 400 km. Chaque pli double l'épaisseur, et 2⁴² dépasse 4 000 milliards, illustrant la puissance de la croissance exponentielle.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 17,
+      "titre": "La Grande Muraille n'est pas visible de l'espace",
+      "texte": "Contrairement à la légende popularisée depuis le XVIIIe siècle, la Grande Muraille de Chine (large de 5 à 9 mètres seulement) est invisible à l'œil nu depuis l'orbite basse. L'astronaute chinois Yang Liwei l'a confirmé après sa mission Shenzhou 5 en 2003. Elle est cependant photographiable avec un téléobjectif depuis l'ISS par temps clair.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 18,
+      "titre": "La mémoire se réécrit à chaque rappel",
+      "texte": "Chaque fois que vous vous souvenez d'un événement, votre hippocampe reconstruit le souvenir à partir de fragments stockés séparément dans le cortex. Ce processus de 'reconsolidation', découvert expérimentalement par Karim Nader en 2000, signifie qu'un souvenir redevient plastique et modifiable au moment de son rappel — ce qui explique les faux souvenirs et les distorsions mnésiques.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 19,
+      "titre": "Franchir le mur du son sur Terre",
+      "texte": "Le 15 octobre 1997, le pilote britannique Andy Green atteignit 1 227,98 km/h (Mach 1,02) sur le lac asséché de Black Rock Desert (Nevada), à bord de ThrustSSC propulsé par deux réacteurs Rolls-Royce Spey. Il devint ainsi la première personne à dépasser la vitesse du son sur la surface terrestre, battant son propre record établi la veille.",
+      "categorie": "records"
+    },
+    {
+      "id": 20,
+      "titre": "Les empreintes des koalas ressemblent aux nôtres",
+      "texte": "Les koalas ont développé indépendamment des empreintes digitales quasi identiques aux nôtres — même nombre de boucles et spirales, même taille relative. Cette convergence évolutive remarquable, documentée dès les années 1990, a déjà causé des confusions sur des scènes de crime australiennes, alors que les deux espèces sont séparées par plus de 70 millions d'années d'évolution.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 21,
+      "titre": "Hedy Lamarr, actrice et co-inventrice du Wi-Fi",
+      "texte": "En 1942, l'actrice austro-américaine Hedy Lamarr et le compositeur George Antheil déposèrent le brevet US 2 292 387 pour un système de guidage de torpilles par 'étalement de spectre' à fréquences changeantes — pour contrer le brouillage ennemi nazi. Ce principe, ignoré pendant des décennies, forma la base technologique du Wi-Fi, du Bluetooth et des réseaux 3G/4G modernes.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 22,
+      "titre": "Le cerveau ne ressent pas la douleur",
+      "texte": "Le tissu cérébral ne possède aucun récepteur nociceptif. C'est pourquoi les neurochirurgiens peuvent opérer un patient éveillé depuis les années 1930 — une technique utilisée par Wilder Penfield — pour cartographier les zones du langage ou du mouvement en temps réel. Les maux de tête proviennent des méninges, des vaisseaux sanguins et des muscles environnants, non du cerveau lui-même.",
+      "categorie": "corps"
+    },
+    {
+      "id": 23,
+      "titre": "Cléopâtre plus proche de nous que des pyramides",
+      "texte": "Cléopâtre VII est morte en 30 av. J.-C., soit environ 2 500 ans après la construction de la grande pyramide de Gizeh (vers 2560 av. J.-C.). Elle vivait il y a environ 2 054 ans. L'iPhone fut présenté en 2007. Cléopâtre est donc chronologiquement plus proche de nos smartphones que des pyramides d'Égypte — d'environ 500 ans.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 24,
+      "titre": "Plus d'étoiles que de grains de sable",
+      "texte": "L'univers observable contiendrait environ 2 000 milliards de galaxies selon une étude publiée en 2016 dans The Astrophysical Journal Letters. En comptant en moyenne 100 milliards d'étoiles par galaxie, on obtient 2 × 10²³ étoiles — soit plus que l'estimation haute du nombre de grains de sable terrestre, évaluée à environ 7,5 × 10¹⁸.",
+      "categorie": "espace"
+    },
+    {
+      "id": 25,
+      "titre": "Pourquoi le rire est contagieux",
+      "texte": "Le rire est contagieux parce que notre cortex prémoteur contient des neurones miroirs qui s'activent lorsqu'on observe une action chez autrui. En 2006, des chercheurs de l'University College London montrèrent par IRMf que les sons du rire activent automatiquement les zones musculaires du visage liées au sourire — avant même que nous en soyons conscients.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 26,
+      "titre": "La Russie et ses 11 fuseaux horaires",
+      "texte": "La Russie s'étend sur 11 fuseaux horaires officiels, de UTC+2 (Kaliningrad) à UTC+12 (Kamtchatka). Quand il est midi à Moscou, il est déjà 21h au Kamtchatka. Cette amplitude est unique au monde : même la Chine, pourtant plus large géographiquement, n'utilise officiellement qu'un seul fuseau (UTC+8) depuis le décret de Mao Zedong en 1949.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 27,
+      "titre": "L'estomac se renouvelle toutes les deux semaines",
+      "texte": "La muqueuse de l'estomac est exposée à de l'acide chlorhydrique à pH 1,5 — suffisamment concentré pour dissoudre certains métaux. Pour ne pas s'auto-digérer, elle se renouvelle entièrement en 2 à 9 jours selon les cellules concernées. Cette régénération rapide est assurée par des cellules souches épithéliales nichées dans les cryptes gastriques.",
+      "categorie": "corps"
+    },
+    {
+      "id": 28,
+      "titre": "Le premier autoportrait photographique",
+      "texte": "En 1839, le chimiste américain Robert Cornelius réalisa devant sa boutique de Philadelphie ce qui est considéré comme le premier autoportrait photographique de l'histoire. Il dut rester immobile pendant une à deux minutes pour que le daguerréotype se fixe. Au dos du cliché, il nota simplement : 'The first light picture ever taken.' Il avait 30 ans.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 29,
+      "titre": "L'ours polaire a la peau noire",
+      "texte": "Contrairement aux apparences, la peau de l'ours polaire est noire, ce qui lui permet d'absorber au maximum la chaleur solaire dans l'Arctique. Ses poils sont creux et transparents : ils diffusent la lumière et paraissent blancs ou jaunâtres selon l'éclairage. En 1981, une rumeur circulait sur leur rôle de 'fibres optiques', mais elle fut formellement infirmée dès 1998.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 30,
+      "titre": "Le son voyage 17 fois plus vite dans l'acier",
+      "texte": "Dans l'air à 20 °C, le son se propage à 343 m/s. Dans l'acier, il atteint 5 100 à 5 900 m/s — environ 17 fois plus vite — car les atomes y sont bien plus proches et liés plus rigidement. C'est ce principe qui permet aux ingénieurs de détecter des défauts internes dans les rails ou pipelines par ultrasons sans les découper.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 31,
+      "titre": "ENIAC, le mastodonte de 30 tonnes",
+      "texte": "L'ENIAC (Electronic Numerical Integrator and Computer), mis en service en février 1946 à l'université de Pennsylvanie, pesait 27 tonnes, occupait 167 m² et consommait 150 kilowatts — autant qu'un petit immeuble résidentiel. Il effectuait environ 5 000 additions par seconde. Un smartphone d'entrée de gamme en 2025 est environ un milliard de fois plus puissant.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 32,
+      "titre": "L'effet Dunning-Kruger",
+      "texte": "En 1999, les psychologues David Dunning et Justin Kruger de Cornell University publièrent leurs expériences montrant que les individus les moins compétents dans un domaine tendent à surestimer massivement leurs capacités, faute de savoir évaluer leur propre incompétence. Inversement, les experts tendent à se sous-estimer car ils supposent que ce qui est facile pour eux l'est pour tous.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 33,
+      "titre": "Les éclairs fertilisent la terre",
+      "texte": "Chaque éclair, avec une température de 30 000 °C (cinq fois plus chaude que la surface du Soleil), brise les molécules N₂ de l'azote atmosphérique pour former des oxydes d'azote. Ces composés retombent avec la pluie sous forme d'ions nitrates absorbables par les plantes. La Terre reçoit environ 40 à 50 éclairs par seconde, contribuant à environ 10 % de la fixation naturelle de l'azote.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 34,
+      "titre": "Rome et la Chine Han : deux empires ignorants l'un de l'autre",
+      "texte": "L'empire romain et la dynastie Han (206 av. J.-C. – 220 apr. J.-C.) coexistèrent pendant plus de deux siècles sans jamais établir de contact diplomatique direct. La Route de la soie était contrôlée par les Parthes puis les Sassanides, qui agissaient comme intermédiaires jaloux. Une ambassade romaine atteignit peut-être la cour Han en 166 apr. J.-C., mais l'authenticité du contact reste débattue par les historiens.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 35,
+      "titre": "Seulement 0,3 % de l'eau est accessible",
+      "texte": "L'eau douce représente 2,5 % des 1 386 millions de km³ d'eau sur Terre. Mais 68,7 % de cette eau douce est piégée dans les glaces et glaciers, et 30,1 % dans les nappes souterraines profondes. Seul 0,3 % de l'eau douce mondiale se trouve dans des lacs et rivières accessibles — soit environ 93 000 km³ sur un total de plus d'un million de km³.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 36,
+      "titre": "Le cœur d'une baleine bleue est immense",
+      "texte": "Le cœur d'une baleine bleue (Balaenoptera musculus), l'animal le plus grand ayant jamais existé, pèse entre 180 et 200 kg — soit le poids d'une petite voiture. Il mesure environ 1,5 m de long et bat seulement 4 à 8 fois par minute au repos. Ses artères coronaires ont un diamètre de 23 cm : un enfant pourrait y ramper à quatre pattes.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 37,
+      "titre": "Le corps humain contient 7 × 10²⁷ atomes",
+      "texte": "Le corps humain est composé d'environ 7 000 milliards de milliards d'atomes (7 × 10²⁷). La quasi-totalité est de l'hydrogène (60 %), de l'oxygène (26 %) et du carbone (11 %). Fait troublant : la plupart des atomes de notre corps ont déjà fait partie d'autres organismes vivants depuis les débuts de la vie sur Terre, il y a environ 3,8 milliards d'années.",
+      "categorie": "corps"
+    },
+    {
+      "id": 38,
+      "titre": "Trinity : le test atomique avec une inconnue terrifiante",
+      "texte": "Le 16 juillet 1945, lors du test Trinity au Nouveau-Mexique, certains physiciens du Projet Manhattan — dont Hans Bethe — avaient calculé une probabilité non nulle que l'explosion déclenche une réaction en chaîne dans l'atmosphère terrestre. Enrico Fermi proposa un pari sur l'éventualité. Oppenheimer jugea le risque suffisamment faible pour procéder quand même.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 39,
+      "titre": "Une cuillère d'étoile à neutrons pèse des milliards de tonnes",
+      "texte": "Une étoile à neutrons est ce qui reste après l'explosion en supernova d'une étoile massive. Sa densité est telle qu'une cuillère à café de sa matière pèserait environ 10 millions de tonnes sur Terre. Ces objets, dont le diamètre n'excède pas 20 km, peuvent contenir 1,4 à 2,5 fois la masse du Soleil, en faisant les objets les plus denses de l'univers après les trous noirs.",
+      "categorie": "espace"
+    },
+    {
+      "id": 40,
+      "titre": "Gutenberg et l'explosion du livre en Europe",
+      "texte": "Avant l'imprimerie à caractères mobiles de Johannes Gutenberg (vers 1450), l'Europe comptait environ 30 000 livres manuscrits. En l'espace de 50 ans, ce nombre passa à plus de 12 millions d'exemplaires imprimés. Cette révolution contribua directement à la Réforme protestante (1517), à la Renaissance et à la Révolution scientifique des XVIe-XVIIe siècles.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 41,
+      "titre": "Le sommeil paradoxal paralyse le corps",
+      "texte": "Durant le sommeil REM (Rapid Eye Movement), décrit pour la première fois par Nathaniel Kleitman et Eugene Aserinsky en 1953, le tronc cérébral bloque activement les motoneurones spinaux, provoquant une atonie musculaire quasi totale. Ce mécanisme empêche le dormeur d'agir physiquement ses rêves — son cerveau est pourtant aussi actif qu'en plein éveil.",
+      "categorie": "corps"
+    },
+    {
+      "id": 42,
+      "titre": "L'effet nocebo : croire peut rendre malade",
+      "texte": "L'effet nocebo (du latin 'je nuirai') est l'inverse du placebo : des attentes négatives suffisent à provoquer de vrais symptômes physiques — nausées, douleurs, fatigue. Une étude de 2012 publiée dans Science and Technology of Advanced Materials montra que des patients informés des effets secondaires d'un médicament les développaient jusqu'à trois fois plus souvent que ceux qui ne l'étaient pas.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 43,
+      "titre": "Si les océans s'évaporaient, le sel ferait 45 mètres",
+      "texte": "Les océans contiennent environ 50 millions de milliards de tonnes de sel dissous, soit une concentration moyenne de 35 grammes par litre. Si toute cette eau s'évaporait, le sel cristallisé formerait une couche uniforme de 45 à 50 mètres d'épaisseur sur l'ensemble des continents — soit un immeuble de 15 étages recouvrant toutes les terres émergées de la planète.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 44,
+      "titre": "Budimir Šobat : 24 minutes sans respirer",
+      "texte": "Le 27 mars 2021 à Šibenik (Croatie), Budimir 'Buda' Šobat établit le record mondial d'apnée statique avec 24 minutes et 37 secondes sous l'eau, homologué par Guinness World Records. Il se prépare par une hyperventilation à l'oxygène pur avant la plongée. Son précédent record (24 min 11 s) datait de 2020, lui-même obtenu contre son propre entraîneur.",
+      "categorie": "records"
+    },
+    {
+      "id": 45,
+      "titre": "L'ARPANET et le premier message d'Internet",
+      "texte": "Le premier message sur ARPANET, précurseur d'Internet, fut envoyé le 29 octobre 1969 entre l'UCLA et le Stanford Research Institute. Le texte devait être 'LOGIN' — le système planta après les deux premières lettres. Seul 'LO' fut reçu. Ce fut donc le premier message de l'histoire d'Internet. ARPANET devint progressivement le réseau mondial entre 1970 et 1983.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 46,
+      "titre": "Les fourmis pratiquent l'agriculture depuis 50 millions d'années",
+      "texte": "Les fourmis champignonnistes (tribu des Attini, Amérique tropicale) cultivent des champignons du genre Leucoagaricus depuis au moins 50 millions d'années, selon des analyses génomiques publiées en 2011. Elles utilisent même des pesticides naturels produits par des bactéries symbiotiques pour protéger leurs cultures. L'agriculture humaine n'a débuté qu'il y a environ 10 000 ans.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 47,
+      "titre": "La neige dans le Sahara",
+      "texte": "La ville d'Aïn Séfra en Algérie, aux portes du Sahara, a connu des chutes de neige remarquables : en février 1979 pour la première fois depuis des siècles, puis en janvier 2017, décembre 2017 et janvier 2018. Ces épisodes, rares mais non exceptionnels à cette altitude (1 078 m), offrent des paysages saisissants où le blanc de la neige contraste avec l'orange des dunes.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 48,
+      "titre": "L'odorat est directement câblé à la mémoire",
+      "texte": "Contrairement aux autres sens qui transitent par le thalamus, les informations olfactives atteignent directement l'amygdale et l'hippocampe via le bulbe olfactif. C'est ce que Marcel Proust décrivit intuitivement dans 'Du côté de chez Swann' (1913) avec sa fameuse madeleine. Ce mécanisme neurologique explique pourquoi une odeur peut déclencher un souvenir en quelques millisecondes.",
+      "categorie": "corps"
+    },
+    {
+      "id": 49,
+      "titre": "La montre-bracelet popularisée par la guerre",
+      "texte": "Jusqu'à la Première Guerre mondiale (1914-1918), la montre-bracelet était considérée comme un accessoire exclusivement féminin. Les soldats des tranchées, notamment les officiers britanniques dès les années 1880, adoptèrent les 'wristlets' pour synchroniser leurs attaques sans fouiller dans leurs poches sous le feu. Après l'armistice de 1918, des millions de vétérans rentèrent avec leurs montres au poignet.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 50,
+      "titre": "Jupiter, le bouclier de la Terre",
+      "texte": "Avec sa masse de 318 fois celle de la Terre, Jupiter agit comme un 'aspirateur gravitationnel' en capturant ou déviant une partie des comètes et astéroïdes. En juillet 1994, la comète Shoemaker-Levy 9 s'y écrasa en 21 fragments laissant des cicatrices plus grandes que la Terre. Certains astrophysiciens estiment que sans Jupiter, les impacts terrestres seraient 1 000 fois plus fréquents.",
+      "categorie": "espace"
+    },
+    {
+      "id": 51,
+      "titre": "Mathusalem, pin vieux de 4 855 ans",
+      "texte": "Un pin de Bristlecone (Pinus longaeva) surnommé 'Mathusalem', localisé dans les White Mountains de Californie à 3 000 m d'altitude, est âgé d'environ 4 855 ans en 2024 — l'un des organismes non clonaux les plus vieux du monde. Sa localisation exacte est tenue secrète par le Service forestier américain pour le protéger du vandalisme.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 52,
+      "titre": "Internet pèse environ 50 grammes",
+      "texte": "Selon le physicien Russel Seitz, la totalité des données sur Internet représente environ 50 grammes en masse d'électrons, car chaque bit est encodé par la présence ou l'absence d'électrons dans des transistors nanométriques. L'ensemble des serveurs, câbles et appareils connectés pèsent cependant plusieurs dizaines de millions de tonnes.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 53,
+      "titre": "Le biais de confirmation",
+      "texte": "Décrit formellement par le psychologue Peter Wason en 1960 via le test '2-4-6', le biais de confirmation est notre tendance naturelle à rechercher, interpréter et mémoriser les informations qui corroborent nos croyances préexistantes — et à ignorer celles qui les contredisent. Ce biais est amplifié par les algorithmes des réseaux sociaux depuis les années 2010.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 54,
+      "titre": "La danse frétillante des abeilles",
+      "texte": "Les abeilles mellifères communiquent la direction et la distance des sources de nourriture par une danse codée, décrite pour la première fois par le biologiste autrichien Karl von Frisch en 1946 (Nobel 1973). L'axe de la danse indique l'angle par rapport au Soleil, sa durée encode la distance, et l'intensité des frétillements traduit la qualité de la ressource.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 55,
+      "titre": "Le Chimborazo, point le plus éloigné du centre de la Terre",
+      "texte": "Le mont Everest est le plus haut au-dessus du niveau de la mer (8 849 m), mais le volcan Chimborazo en Équateur (6 263 m) est le point de surface le plus éloigné du centre de la Terre — à 6 384 km — grâce au renflement équatorial. C'est donc du sommet du Chimborazo que l'on est le plus proche des étoiles.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 56,
+      "titre": "Les papilles gustatives se renouvellent en deux semaines",
+      "texte": "Chaque papille gustative contient 50 à 150 cellules réceptrices qui se renouvellent toutes les 10 à 14 jours — parmi les cellules à durée de vie la plus courte du corps humain. Ce renouvellement explique pourquoi certains aliments détestés dans l'enfance peuvent devenir appréciables à l'âge adulte, et pourquoi les chimiothérapies altèrent fortement le goût.",
+      "categorie": "corps"
+    },
+    {
+      "id": 57,
+      "titre": "La pénicilline découverte par accident en 1928",
+      "texte": "Le 3 septembre 1928, en rentrant de vacances, Alexander Fleming remarqua qu'une boîte de Pétri oubliée avait été contaminée par une moisissure (Penicillium notatum) qui avait détruit toutes les bactéries Staphylococcus aureus environnantes. Ce fut Howard Florey et Ernst Chain qui purifiè la pénicilline en 1940, permettant la production clinique lors de la Seconde Guerre mondiale.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 58,
+      "titre": "L'effet de halo",
+      "texte": "En 1920, le psychologue Edward Thorndike décrivit l'effet de halo : notre tendance à inférer des qualités positives globales (intelligence, honnêteté, compétence) à partir d'une seule caractéristique positive, souvent physique. Des études montrent que les candidats jugés physiquement attractifs reçoivent des salaires supérieurs de 10 à 15 % et des peines de prison plus légères en moyenne.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 59,
+      "titre": "Le Soleil produit des sons que l'espace tait",
+      "texte": "Le Soleil produit des oscillations acoustiques gigantesques étudiées par héliosismologie depuis les années 1960. Ces 'sons solaires' ont une fréquence d'environ 3 millihertz, soit 12 octaves sous la capacité auditive humaine. S'ils pouvaient se propager dans l'espace, ils atteindraient 125 décibels à distance de la Terre — l'équivalent d'un concert de heavy metal en continu.",
+      "categorie": "espace"
+    },
+    {
+      "id": 60,
+      "titre": "La plus vieille tablette cunéiforme parle de bière",
+      "texte": "L'une des premières tablettes d'écriture connues, retrouvée à Uruk (actuel Irak) et datée d'environ 3 000 av. J.-C., contient une liste administrative de livraisons de bière et de pain aux ouvriers des temples sumériens. C'est l'un des premiers exemples d'écriture à usage économique : la bureaucratie et la comptabilité ont précédé la littérature dans l'histoire humaine.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 61,
+      "titre": "Le béton romain se renforce avec le temps",
+      "texte": "Une étude publiée en 2023 dans la revue Science montra que le béton romain antique se renforce avec le temps grâce à une réaction entre la chaux et l'eau de mer qui produit des cristaux d'aluminosilicate de calcium. Notre béton Portland moderne se fissure progressivement. Les installations portuaires romaines de Baïes (Italie) ont résisté intactes pendant 2 000 ans.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 62,
+      "titre": "Un bébé naît avec 270 à 300 os",
+      "texte": "Un nouveau-né possède entre 270 et 300 os, dont beaucoup sont encore cartilagineux. Au cours de la croissance, des fusions osseuses réduisent ce nombre à 206 chez l'adulte. Le crâne d'un nourrisson est composé de 6 plaques distinctes séparées par des fontanelles souples qui facilitent l'accouchement et permettent la croissance cérébrale durant les premières années.",
+      "categorie": "corps"
+    },
+    {
+      "id": 63,
+      "titre": "Spoutnik 1 et la naissance de la course à l'espace",
+      "texte": "Le 4 octobre 1957, l'URSS lança Spoutnik 1 — une sphère d'aluminium de 58 cm de diamètre et 83,6 kg émettant un simple bip radio sur deux fréquences. Il orbita pendant 92 jours avant de se désintégrer dans l'atmosphère le 4 janvier 1958. Sa mise en orbite provoqua un choc immense aux États-Unis, menant directement à la création de la NASA en 1958.",
+      "categorie": "espace"
+    },
+    {
+      "id": 64,
+      "titre": "Les corbeaux se souviennent des visages pendant des années",
+      "texte": "Des études de l'université de Washington publiées entre 2008 et 2011 montrèrent que les corbeaux mémorisent les visages humains qui les ont capturés ou menacés et alertent leurs congénères des années plus tard. Ils utilisent aussi des outils, planifient l'avenir et comprennent le concept de réciprocité — des capacités longtemps réservées aux primates.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 65,
+      "titre": "L'explosion cambrienne : toute la vie en 20 millions d'années",
+      "texte": "Il y a environ 538 millions d'années, pendant 13 à 25 millions d'années, presque tous les grands phylums animaux actuels apparurent soudainement dans les archives fossiles. Cette 'explosion cambrienne', documentée notamment par les fossiles de Burgess Shale au Canada (découverts en 1909), reste l'une des grandes énigmes de la paléontologie.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 66,
+      "titre": "Robot : un mot né sur scène à Prague en 1921",
+      "texte": "Le mot 'robot' fit son apparition le 25 janvier 1921, lors de la première de la pièce R.U.R. (Rossum's Universal Robots) de l'écrivain tchèque Karel Čapek au Théâtre National de Prague. Il dérive du slave 'robota', signifiant travail forcé. Les robots de la pièce étaient des androïdes organiques qui finissaient par se rebeller contre leurs créateurs humains.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 67,
+      "titre": "La NASA transmet des données par laser depuis 16 millions de km",
+      "texte": "En novembre 2023, la NASA réussit à transmettre depuis la sonde Psyche une vidéo par laser infrarouge depuis 16 millions de km — 40 fois la distance Terre-Lune — dans le cadre du projet LLCD. Ce débit de 200 Mbit/s dépasse de 100 fois ce que permettent les ondes radio classiques, ouvrant la voie aux communications interplanétaires haut débit.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 68,
+      "titre": "L'empire mongol : le plus grand empire terrestre contigu",
+      "texte": "À son apogée en 1279 sous Kubilaï Khan, l'empire mongol s'étendait sur 24 millions de km² — de la Corée à la Pologne, de la Sibérie à la Perse. Pour l'administrer, Gengis Khan créa le premier service de courrier longue distance (Yam), avec des relais de chevaux toutes les 25 miles permettant de couvrir jusqu'à 300 km par jour.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 69,
+      "titre": "L'équilibre humain repose sur trois systèmes",
+      "texte": "L'équilibre n'est pas assuré par un seul sens mais par la fusion de trois systèmes : l'appareil vestibulaire de l'oreille interne (position de la tête), la vision (position dans l'espace) et la proprioception (position des muscles et articulations). Fermer les yeux sur un pied révèle à quel point la vision compense les déficiences vestibulaires — un test clinique utilisé depuis 1846 (test de Romberg).",
+      "categorie": "corps"
+    },
+    {
+      "id": 70,
+      "titre": "Le premier vaccin de l'histoire : la vache contre la variole",
+      "texte": "Le 14 mai 1796, le médecin britannique Edward Jenner inocula à James Phipps, 8 ans, du liquide prélevé sur une pustule de variole bovine (cowpox). Plusieurs semaines plus tard, il l'exposa à la variole humaine : l'enfant ne développa pas la maladie. Ce premier vaccin de l'histoire — le terme 'vaccine' vient de 'vacca' (vache en latin) — fut publié officiellement en 1798.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 71,
+      "titre": "La matière est composée à 99,9 % de vide",
+      "texte": "Si on comparait un atome d'hydrogène à la cathédrale Notre-Dame de Paris (taille du noyau), les électrons orbiteraient à plusieurs kilomètres. La matière est composée à 99,9999999 % de vide. Si on retirait tous les espaces vides des atomes de l'humanité entière (8 milliards de personnes), ce qui resterait tiendrait dans un cube de sucre.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 72,
+      "titre": "Le premier mort de l'histoire du chemin de fer",
+      "texte": "Le 15 septembre 1830, lors de l'inauguration de la ligne Liverpool-Manchester — première ligne ferroviaire commerciale pour passagers — le député William Huskisson traversa les rails pour saluer Wellington et fut renversé par la locomotive 'Rocket' de George Stephenson. Il mourut le soir même, devenant la première victime mortelle connue d'un accident de train.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 73,
+      "titre": "Vénus est plus chaude que Mercure",
+      "texte": "Mercure, la planète la plus proche du Soleil, atteint 430 °C côté jour mais descend à -180 °C côté nuit (aucune atmosphère pour retenir la chaleur). Vénus, 67 millions de km plus loin, maintient en permanence 465 °C à sa surface — une température uniforme due à son atmosphère de CO₂ à 92 bars, qui crée le plus puissant effet de serre du système solaire.",
+      "categorie": "espace"
+    },
+    {
+      "id": 74,
+      "titre": "Écrire à la main booste la mémoire",
+      "texte": "Une étude publiée en 2023 dans Frontiers in Psychology montra que la prise de notes à la main activait davantage de zones cérébrales liées à l'encodage mémoriel que la frappe au clavier. Des enregistrements EEG révèlent une activation accrue du gyrus angulaire et des zones visuospatiales liée aux mouvements complexes de l'écriture manuscrite.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 75,
+      "titre": "Une langue s'éteint tous les 14 jours",
+      "texte": "Selon l'UNESCO, sur les 7 000 langues parlées dans le monde, environ 2 500 sont en danger d'extinction. Le rythme de disparition est estimé à une langue tous les 14 jours. Depuis 1950, au moins 231 langues se sont éteintes, dont l'Ubykh (Turquie, 1992). Chaque disparition emporte une vision unique du monde et des connaissances culturelles irremplaçables.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 76,
+      "titre": "La fosse des Mariannes : 50 avions sur la poitrine",
+      "texte": "Au fond de la fosse des Mariannes (Challenger Deep, 10 935 m), la pression atteint environ 1 086 bars — l'équivalent de 50 avions de ligne posés sur chaque centimètre carré. Malgré ces conditions extrêmes, des biologistes ont trouvé bactéries, amphipodes et holothuries. James Cameron y plongea en solitaire le 26 mars 2012 en 2h 36min.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 77,
+      "titre": "L'ADN peut stocker toute l'information numérique humaine",
+      "texte": "En 2019, des chercheurs de l'ETH Zurich estimèrent qu'un gramme d'ADN synthétique peut théoriquement stocker 215 pétaoctets de données. En 2023, des scientifiques de l'Université de Washington parvinrent à encoder et relire une image haute résolution dans de l'ADN synthétique avec un taux d'erreur inférieur à 0,001 %.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 78,
+      "titre": "Bell et Gray : le brevet du téléphone déposé le même jour",
+      "texte": "Le 14 février 1876, Alexander Graham Bell et Elisha Gray déposèrent chacun leurs documents sur le téléphone au bureau des brevets de Washington. Bell fut enregistré en premier avec quelques heures d'avance. En 2002, le Congrès américain reconnut officiellement le rôle de l'inventeur italo-américain Antonio Meucci, qui avait déposé un 'caveat' dès 1871.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 79,
+      "titre": "Les manchots retrouvent leur partenaire au chant",
+      "texte": "Les manchots empereurs nichent en colonies de plusieurs dizaines de milliers d'individus en Antarctique, par des températures pouvant descendre à -60 °C. Après des semaines de séparation en mer, les couples se retrouvent exclusivement grâce à leur chant individuel unique — chaque manchot possède une 'signature vocale' reconnaissable parmi des milliers d'individus.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 80,
+      "titre": "Le premier 'bug' informatique était un vrai insecte",
+      "texte": "Le 9 septembre 1947, des ingénieurs travaillant sur le calculateur Harvard Mark II trouvèrent une vraie mite coincée dans un relais électromécanique, causant un dysfonctionnement. Grace Hopper et son équipe collèrent l'insecte dans le journal de bord avec la note : 'First actual case of bug being found.' Le terme 'bug' existait informellement depuis Edison, mais cet incident l'immortalisa.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 81,
+      "titre": "L'illusion de Müller-Lyer révèle notre culture",
+      "texte": "L'illusion de Müller-Lyer (1889) montre deux segments identiques qui semblent de longueur différente selon l'orientation de leurs flèches. R.L. Gregory (1966) suggéra que notre cerveau occidental les interprète comme des angles architecturaux. Des études anthropologiques montrent que les Zulus d'Afrique du Sud, vivant dans des habitations rondes sans angles droits, sont beaucoup moins sensibles à cette illusion.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 82,
+      "titre": "La cathédrale de Cologne : 632 ans de construction",
+      "texte": "La cathédrale de Cologne fut commencée en 1248 et achevée en 1880 — soit 632 ans de construction. Celle de Sienne fut abandonnée en cours d'agrandissement en 1348 à cause de la Peste noire qui tua la moitié de la population. La plupart des artisans médiévaux travaillaient leur vie entière sur un édifice dont ils ne verraient jamais l'achèvement.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 83,
+      "titre": "Le sel et l'origine du mot salaire",
+      "texte": "Dans la Rome antique, une partie de la solde des légionnaires était versée en sel ou en argent destiné à en acheter. L'expression 'salarium argentum' donna le mot 'salaire'. Le sel servait de monnaie d'échange en Afrique, en Éthiopie et en Chine médiévale. Son contrôle par l'État fut une source de revenus fiscaux majeure jusqu'au XIXe siècle.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 84,
+      "titre": "Les tardigrades survivent dans l'espace",
+      "texte": "Les tardigrades (ou 'oursons d'eau'), découverts en 1773 par le pasteur Johann Goeze, survivent à -272 °C, +150 °C, à 6 000 grays de radiation (600 fois la dose mortelle pour l'humain) et au vide spatial. En 2019, des milliers de tardigrades se trouvaient à bord de la sonde israélienne Beresheet qui s'écrasa sur la Lune — ils y sont probablement encore.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 85,
+      "titre": "Certaines étoiles visibles sont peut-être déjà mortes",
+      "texte": "Quand vous regardez le ciel nocturne, certaines étoiles ont peut-être déjà explosé. Bételgeuse, l'épaule rouge d'Orion, est à 700 années-lumière — la lumière que vous percevez a quitté l'étoile en 1325. Si elle a explosé depuis, nous ne le saurons que lorsque cette lumière arrivera. La plupart des étoiles visibles existent encore, mais quelques-unes sont déjà des fantômes cosmiques.",
+      "categorie": "espace"
+    },
+    {
+      "id": 86,
+      "titre": "La mémoire de travail : 7 ± 2 éléments",
+      "texte": "En 1956, le psychologue George Miller publia son article fondateur 'The Magical Number Seven, Plus or Minus Two', montrant que la mémoire de travail humaine peut maintenir simultanément 7 unités d'information (±2). Cette limite explique pourquoi les numéros de téléphone ont été standardisés à 7 chiffres dans la plupart des pays — un choix intuitivement précédent la publication de Miller.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 87,
+      "titre": "L'Antarctique est le plus grand désert du monde",
+      "texte": "Un désert est défini par ses précipitations annuelles inférieures à 250 mm, non par sa chaleur. L'Antarctique reçoit en moyenne 166 mm d'équivalent-eau par an dans ses régions intérieures — moins que de nombreuses zones sahariennes. Avec 14,2 millions de km², c'est le plus grand désert du monde, devant le Sahara (9,2 millions de km²).",
+      "categorie": "geographie"
+    },
+    {
+      "id": 88,
+      "titre": "La règle des 10 000 heures nuancée",
+      "texte": "Malcolm Gladwell popularisa en 2008 (Outliers) l'idée que 10 000 heures de pratique délibérée suffisent pour l'excellence — basée sur des travaux d'Anders Ericsson de 1993. Mais une méta-analyse de 2014 dans Psychological Science sur 88 études montra que la pratique délibérée n'explique que 12 % de la variance de performance. Les facteurs génétiques, l'âge de début et le contexte comptent autant.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 89,
+      "titre": "Les premières pièces de monnaie frappées en Lydie vers 600 av. J.-C.",
+      "texte": "Les premières pièces de monnaie connues furent frappées en Lydie (actuelle Turquie) vers 600 av. J.-C. sous le règne du roi Alyatte, en électrum (alliage naturel d'or et d'argent). Son fils Crésus (560-546 av. J.-C.) introduisit les premières pièces en or et argent purs, standardisant leur poids. L'expression 'riche comme Crésus' nous vient de cette époque.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 90,
+      "titre": "86 milliards de neurones, 100 000 milliards de connexions",
+      "texte": "Une étude de 2009 par Frederico Azevedo (université de São Paulo) révisa le nombre de neurones cérébraux humains : non pas 100 milliards comme supposé depuis les années 1960, mais environ 86 milliards. En revanche, les connexions synaptiques entre ces neurones sont estimées à 100 000 milliards — soit plus que le nombre d'étoiles dans la Voie lactée.",
+      "categorie": "corps"
+    },
+    {
+      "id": 91,
+      "titre": "Le python peut jeûner 14 mois",
+      "texte": "Les pythons réticulés, les plus longs serpents du monde, peuvent jeûner 12 à 14 mois après un repas copieux. Après ingestion d'une proie volumineuse, leurs organes digestifs s'atrophient de 40 % avant de se redévelopper pour le repas suivant. Ce yo-yo métabolique extrême économise jusqu'à 70 % des coûts énergétiques de base.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 92,
+      "titre": "Le paradoxe de Simpson piège les statisticiens",
+      "texte": "Le paradoxe de Simpson (formalisé par E.H. Simpson en 1951) décrit la situation où une tendance présente dans plusieurs groupes séparés s'inverse lorsqu'on les combine. Un exemple célèbre : les données d'admission à Berkeley en 1973 semblaient montrer une discrimination envers les femmes globalement, mais chaque département individuel favorisait les candidates — l'inversion était due aux différences de sélectivité entre filières.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 93,
+      "titre": "Felix Baumgartner dépasse Mach 1 en chute libre",
+      "texte": "En position de plongeon, la vitesse terminale peut dépasser 300 km/h en air dense. Le 14 octobre 2012, Felix Baumgartner sauta depuis 39 045 m d'altitude et atteignit 1 357,64 km/h (Mach 1,25) dans la stratosphère avant que l'air ne soit assez dense pour le freiner — devenant le premier humain à franchir le mur du son sans véhicule.",
+      "categorie": "records"
+    },
+    {
+      "id": 94,
+      "titre": "Notre Soleil est en banlieue de la Voie lactée",
+      "texte": "Notre Soleil est situé dans le bras d'Orion, un bras spiral secondaire de la Voie lactée, à environ 26 000 années-lumière du centre galactique. Il effectue une révolution complète autour du centre en 225 à 250 millions d'années — une 'année galactique'. La dernière fois que la Terre occupait cette même position dans la galaxie, les dinosaures non-aviens n'existaient pas encore.",
+      "categorie": "espace"
+    },
+    {
+      "id": 95,
+      "titre": "La blockchain imaginée 17 ans avant Bitcoin",
+      "texte": "Le concept cryptographique de blockchain fut théorisé en 1991 par Stuart Haber et W. Scott Stornetta pour créer des registres immuables. Il fallut attendre le livre blanc de 'Satoshi Nakamoto' le 31 octobre 2008 pour son application à une monnaie décentralisée. Le premier bloc Bitcoin (Genesis Block) fut miné le 3 janvier 2009.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 96,
+      "titre": "Le Code d'Hammurabi : 282 lois gravées vers 1754 av. J.-C.",
+      "texte": "Gravé vers 1754 av. J.-C. sur une stèle de diorite de 2,25 m de haut, le Code d'Hammurabi, roi de Babylone, est l'un des plus anciens codes de lois écrits. Ses 282 lois couvrent les contrats, le divorce, l'adoption et les dommages corporels (principe du talion). La stèle, découverte en 1901 à Suse (Iran), est exposée au Louvre à Paris.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 97,
+      "titre": "LUCA : l'ancêtre commun de toute vie sur Terre",
+      "texte": "Le code génétique universel — où les triplets de bases ARN codent les 20 acides aminés — est quasiment identique chez tous les êtres vivants, des bactéries aux baleines. Cette universalité suggère que toute vie sur Terre descend d'un ancêtre commun unique (LUCA : Last Universal Common Ancestor) ayant vécu il y a environ 3,8 à 4 milliards d'années.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 98,
+      "titre": "Magellan-Elcano : le premier tour du monde perdu d'un jour",
+      "texte": "L'expédition de Fernand de Magellan et Juan Sebastián Elcano (1519-1522) fut la première circumnavigation de la Terre. Magellan mourut aux Philippines en avril 1521. Elcano ramena le Victoria à Séville le 6 septembre 1522 avec 18 survivants sur 270 partants. En rentrant, les marins constatèrent avec stupeur qu'ils avaient 'perdu' un jour dans leurs journaux — preuve involontaire de la rotondité terrestre.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 99,
+      "titre": "Les poulpes ont trois cerveaux et 500 millions de neurones",
+      "texte": "Un poulpe possède un cerveau central et deux cerveaux secondaires dans ses bras — chacun des 8 tentacules contient environ 40 millions de neurones capables de traitement autonome. Sur les 500 millions de neurones totaux, les deux tiers sont dans ses bras, leur permettant de 'goûter' et de manipuler des objets de façon semi-autonome sans attendre le cerveau central.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 100,
+      "titre": "Le premier vol motorisé de l'histoire : 12 secondes",
+      "texte": "Le 17 décembre 1903 à Kitty Hawk (Caroline du Nord), Orville et Wilbur Wright réalisèrent les quatre premiers vols motorisés de l'histoire. Le premier dura 12 secondes et couvrit 36,5 mètres. Le quatrième, piloté par Wilbur, dura 59 secondes et parcourut 260 mètres. Le Flyer I pesait 274 kg et utilisait un moteur de 12 chevaux que les deux frères avaient conçu eux-mêmes.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 101,
+      "titre": "Les éléphants dorment 2 heures par nuit",
+      "texte": "Selon une étude publiée en 2017 dans PLOS ONE, basée sur le suivi GPS d'éléphants sauvages en Botswana, ces animaux dorment en moyenne 2 heures par nuit — le moins de tout le règne animal étudié. Ils dorment parfois debout et ne passent en phase de sommeil paradoxal (REM) que tous les 3 à 4 jours, souvent couchés sur le flanc.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 102,
+      "titre": "Valentina Terechkova, première femme dans l'espace",
+      "texte": "Le 16 juin 1963, la soviétique Valentina Terechkova, ouvrière textile et passionnée de parachutisme, devint la première femme à voyager dans l'espace à bord de Vostok 6. Elle orbita 48 fois autour de la Terre en 70 heures 50 minutes. Elle reste à ce jour la seule femme à avoir effectué un vol spatial entièrement en solo.",
+      "categorie": "espace"
+    },
+    {
+      "id": 103,
+      "titre": "Le riz nourrit la moitié de l'humanité depuis 7 000 ans",
+      "texte": "Le riz (Oryza sativa) fut domestiqué dans la vallée du fleuve Yangtsé (Chine) il y a environ 7 000 à 9 000 ans. Aujourd'hui, il constitue la principale source de calories pour plus de 3,5 milliards de personnes. La Chine, l'Inde et l'Indonésie produisent à elles seules 60 % des 520 millions de tonnes récoltées annuellement.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 104,
+      "titre": "La forêt amazonienne produit sa propre pluie",
+      "texte": "La forêt amazonienne (5,5 millions de km²) génère ses propres précipitations via la transpiration des arbres : ils rejettent ensemble environ 20 milliards de tonnes d'eau par jour dans l'atmosphère. Ces 'rivières volantes' alimentent les pluies jusqu'au Brésil central. La déforestation menace ce cycle et pourrait transformer l'Amazonie en savane d'ici 2050 selon certains modèles climatiques.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 105,
+      "titre": "La première carte du monde date de 600 av. J.-C.",
+      "texte": "La plus ancienne carte du monde connue est une tablette babylonienne en argile, datée vers 600 av. J.-C. et conservée au British Museum, représentant la Terre comme un disque plat entouré d'un océan circulaire. Babylone y figure au centre. Les Grecs, dès le Ve siècle av. J.-C. avec Anaximandre, commencèrent à cartographier le monde méditerranéen de façon plus précise.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 106,
+      "titre": "Le genou supporte 5 fois le poids du corps",
+      "texte": "Le genou est l'articulation la plus grande et complexe du corps humain : il associe le fémur, le tibia et la rotule, stabilisés par 4 ligaments principaux, 2 ménisques et une quinzaine de muscles. Il supporte jusqu'à 5 fois le poids du corps lors de la descente des escaliers — soit plus de 300 kg pour un adulte moyen.",
+      "categorie": "corps"
+    },
+    {
+      "id": 107,
+      "titre": "Le système métrique inventé par la Révolution française",
+      "texte": "Le système métrique fut créé par l'Académie des sciences française sur ordre de l'Assemblée nationale en 1791, pour unifier les 250 000 unités de mesure différentes utilisées dans les provinces. Le mètre fut défini comme le dix-millionième de la distance du pôle Nord à l'équateur — une mesure légèrement erronée car la Terre n'est pas une sphère parfaite.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 108,
+      "titre": "Les pieuvres voient les couleurs malgré leur daltonisme",
+      "texte": "Les pieuvres sont daltoniennes : leurs yeux ne possèdent qu'un seul type de photorécepteur. Pourtant, elles exhibent des changements de couleur et de motifs sophistiqués. En 2016, une étude de l'Université de Californie proposa qu'elles 'voient' les couleurs via des pupilles en forme de W qui utilisent l'aberration chromatique pour analyser les longueurs d'onde — un mécanisme unique dans le règne animal.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 109,
+      "titre": "Le carbone 14 permet de dater jusqu'à 50 000 ans",
+      "texte": "Le carbone 14 (¹⁴C) est produit dans l'atmosphère par le bombardement de l'azote par les rayons cosmiques. Il est absorbé par les êtres vivants jusqu'à leur mort, puis se désintègre avec une demi-vie de 5 730 ans. En mesurant le ratio ¹⁴C/¹²C dans un échantillon organique, on peut dater des matériaux jusqu'à 50 000 ans — une méthode mise au point par Willard Libby en 1949 (Nobel 1960).",
+      "categorie": "sciences"
+    },
+    {
+      "id": 110,
+      "titre": "Le GPS : 13 ans de développement, 1 milliard d'utilisateurs",
+      "texte": "Le GPS, dont le développement débuta en 1973 par le Département de la Défense américain, fut déclaré pleinement opérationnel en 1995 avec 24 satellites. Initialement réservé à l'armée, il fut ouvert aux civils en 1983 après qu'un Boeing 747 de Korean Air fut abattu par l'URSS pour être entré dans l'espace aérien soviétique. Il compte aujourd'hui plus d'un milliard d'utilisateurs quotidiens.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 111,
+      "titre": "Les hiéroglyphes déchiffrés grâce à la Pierre de Rosette",
+      "texte": "La Pierre de Rosette, découverte en 1799 à Rosette (Égypte) par des soldats napoléoniens, porte un décret de 196 av. J.-C. en trois écritures : hiéroglyphes, démotique et grec. Thomas Young identifia les cartouches des noms royaux en 1814, et Jean-François Champollion déchiffra complètement les hiéroglyphes en septembre 1822 — après plus de 1 400 ans d'oubli.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 112,
+      "titre": "La fosse de Kola : 12 km de profondeur et 180 °C",
+      "texte": "De 1970 à 1994, des géologues soviétiques forèrent le puits de Kola dans la péninsule du même nom, atteignant 12 262 mètres de profondeur — le plus profond jamais foré. À cette profondeur, la roche atteignait 180 °C (deux fois plus que prévu). Les chercheurs y trouvèrent de l'eau minérale libre et des micro-organismes fossilisés, mais durent s'arrêter car la chaleur rendait le matériel inutilisable.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 113,
+      "titre": "L'effet de primauté et de récence en mémoire",
+      "texte": "Lors de la mémorisation d'une liste, nous retenons mieux les premiers éléments (effet de primauté, encodés en mémoire à long terme) et les derniers (effet de récence, encore en mémoire à court terme) que ceux du milieu. Cet effet, démontré par Herman Ebbinghaus en 1885, est exploité en marketing pour placer les produits phares en début et fin de liste.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 114,
+      "titre": "Le premier vol commercial de l'histoire : 1914 en Floride",
+      "texte": "Le 1er janvier 1914, le premier service aérien commercial régulier au monde fut inauguré à St. Petersburg (Floride) par l'hydravion Benoist XIV, piloté par Tony Jannus. Le trajet St. Petersburg–Tampa (35 km, 18 minutes) coûtait 5 dollars. Le billet inaugural fut vendu aux enchères à l'ancien maire Abram Pheil pour 400 dollars. La compagnie cessa après 4 mois.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 115,
+      "titre": "La Lune est née d'une collision il y a 4,5 milliards d'années",
+      "texte": "La théorie dominante, proposée en 1975 par William Hartmann et Donald Davis, suggère que la Lune s'est formée suite à la collision de la proto-Terre avec une planète de la taille de Mars surnommée Théia, il y a environ 4,5 milliards d'années. Les débris éjectés en orbite se sont agglomérés pour former la Lune — ce qui expliquerait pourquoi sa composition est si proche du manteau terrestre.",
+      "categorie": "espace"
+    },
+    {
+      "id": 116,
+      "titre": "Les abeilles perçoivent les champs magnétiques des fleurs",
+      "texte": "Des recherches publiées en 2019 dans PNAS confirmèrent que les abeilles mellifères détectent les champs magnétiques terrestres via des cristaux de magnétite dans leur abdomen. Elles sont également sensibles aux champs électriques statiques des fleurs, qui varient selon les visites récentes de butineuses — leur permettant de 'savoir' si une fleur vient d'être visitée.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 117,
+      "titre": "La première prévision météorologique : FitzRoy en 1861",
+      "texte": "Le premier bulletin météorologique officiel quotidien fut publié le 1er août 1861 en Grande-Bretagne par Robert FitzRoy, amiral et ancien commandant du HMS Beagle (le navire de Darwin). FitzRoy inventa le terme 'forecast' et développa des méthodes de collecte par télégraphe depuis des stations côtières. Il se suicida en 1865, déprimé par les critiques sur l'inexactitude de ses prévisions.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 118,
+      "titre": "Le sucre, un luxe de roi pendant mille ans",
+      "texte": "La canne à sucre, domestiquée en Nouvelle-Guinée vers 8 000 av. J.-C., atteignit l'Inde vers 500 av. J.-C. et la Perse au VIe siècle. En Europe médiévale (XIe-XVe siècle), le sucre raffiné était vendu chez les apothicaires comme médicament, à un prix équivalent à plusieurs jours de salaire d'un artisan. Ce n'est qu'avec les plantations coloniales caribéennes (XVIIe-XVIIIe siècle) qu'il devint accessible à tous.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 119,
+      "titre": "La lumière met 100 000 ans à traverser la Voie lactée",
+      "texte": "La Voie lactée mesure environ 100 000 années-lumière de diamètre. Un photon voyageant à 299 792 km/s mettrait donc 100 000 ans pour la traverser de part en part. L'étoile la plus proche de notre Soleil, Proxima Centauri, est à 4,24 années-lumière — soit 40 200 milliards de km — et il faudrait plus de 70 000 ans pour l'atteindre avec nos sondes actuelles.",
+      "categorie": "espace"
+    },
+    {
+      "id": 120,
+      "titre": "La ziggurat d'Ur, modèle de la tour de Babel",
+      "texte": "Les ziggurats mésopotamiennes furent construites de 2 200 à 500 av. J.-C. La ziggurat d'Ur (actuel Irak), construite vers 2 100 av. J.-C. par le roi Ur-Nammu, mesure 64 × 46 m à la base pour 21 m de haut. La ziggurat de Babylone dédiée au dieu Marduk, dont s'inspira le mythe de la tour de Babel, pouvait mesurer jusqu'à 90 mètres de hauteur.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 121,
+      "titre": "Les papillons monarques migrent sur 4 500 km",
+      "texte": "Le papillon monarque (Danaus plexippus) effectue chaque automne une migration de plus de 4 500 km depuis le Canada jusqu'aux forêts du Michoacán (Mexique), guidé par une 'boussole solaire' couplée à une horloge circadienne. Aucun individu ne fait l'aller-retour complet : la migration dure 3 à 4 générations, une énigme scientifique partiellement inexpliquée.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 122,
+      "titre": "Le sang : 96 000 km de vaisseaux dans le corps",
+      "texte": "Un adulte de 70 kg possède environ 5 à 6 litres de sang circulant dans environ 96 000 km de vaisseaux sanguins — de quoi faire 2,5 fois le tour de la Terre. Le cœur effectue environ 100 000 battements par jour et pompe plus de 7 000 litres de sang en 24 heures, sans jamais s'arrêter durant une vie entière.",
+      "categorie": "corps"
+    },
+    {
+      "id": 123,
+      "titre": "La maîtrise du feu remonte à 1 million d'années",
+      "texte": "Les premières preuves archéologiques de la maîtrise du feu par les hominidés remontent à environ 1 million d'années, retrouvées dans la grotte de Wonderwerk en Afrique du Sud. La maîtrise du feu a permis la cuisson des aliments, rendant plus de calories biodisponibles — ce qui aurait contribué au développement du cerveau humain selon l'hypothèse de Richard Wrangham (2009).",
+      "categorie": "histoire"
+    },
+    {
+      "id": 124,
+      "titre": "Les signaux nerveux rapides : 120 m/s",
+      "texte": "Les signaux nerveux ne circulent pas tous à la même vitesse. Les fibres myélinisées de type Aα (réflexes moteurs) transmettent les impulsions à 70-120 m/s. Les fibres de type C (douleur chronique) ne dépassent pas 2 m/s — ce qui explique pourquoi la douleur brûlante arrive avec un léger délai après un choc. Le cerveau traite certaines informations visuelles en moins de 13 millisecondes.",
+      "categorie": "corps"
+    },
+    {
+      "id": 125,
+      "titre": "Les chauves-souris émettent 140 décibels par écholocation",
+      "texte": "Les chauves-souris produisent des ultrasons (20 kHz à 200 kHz) pouvant atteindre 130 à 140 décibels à la source — l'équivalent d'un décollage d'avion de chasse. Elles ne s'assourdissent pas car leurs oreilles se contractent pendant l'émission. Cette écholocation, indépendamment évoluée chez les dauphins et certains oiseaux, permet de détecter des objets de moins d'un millimètre.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 126,
+      "titre": "Darwin a attendu 23 ans pour publier sa théorie",
+      "texte": "Charles Darwin formula sa théorie de l'évolution lors du voyage du Beagle (1831-1836) et l'ébaucha dans un essai privé dès 1844. Mais il attendit 1859 pour publier 'L'Origine des espèces' — soit 23 ans de délai par peur des réactions religieuses. Il fut précipité à publier en juin 1858 par une lettre d'Alfred Russel Wallace décrivant indépendamment la même théorie.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 127,
+      "titre": "Le lac Baïkal contient 20 % de l'eau douce liquide mondiale",
+      "texte": "Le lac Baïkal, en Sibérie, est le lac le plus profond (1 642 m) et le plus ancien (25 à 30 millions d'années) du monde. Il contient à lui seul environ 23 000 km³ d'eau douce, soit 20 % de toutes les réserves d'eau douce liquide de surface planétaire. Plus de 1 700 espèces animales y vivent, dont 80 % sont endémiques.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 128,
+      "titre": "Le cerveau humain est composé à 60 % de graisses",
+      "texte": "Le cerveau est l'organe le plus riche en lipides du corps : environ 60 % de graisses en poids sec. Les acides gras oméga-3 (notamment le DHA) constituent les membranes des neurones et sont essentiels à la transmission synaptique. Le cerveau pèse environ 1,4 kg mais consomme 20 % de l'énergie totale de l'organisme au repos.",
+      "categorie": "corps"
+    },
+    {
+      "id": 129,
+      "titre": "La première image d'un trou noir en 2019",
+      "texte": "Le 10 avril 2019, le projet Event Horizon Telescope (EHT) publia la première image directe d'un trou noir : M87*, au centre de la galaxie Messier 87, à 55 millions d'années-lumière. Ce trou noir possède une masse de 6,5 milliards de fois celle du Soleil. L'image fut obtenue en combinant des radiotélescopes de 8 observatoires sur 4 continents pour créer un télescope virtuel de la taille de la Terre.",
+      "categorie": "espace"
+    },
+    {
+      "id": 130,
+      "titre": "Le chien domestiqué il y a 20 000 à 40 000 ans",
+      "texte": "Le chien (Canis lupus familiaris) est le premier animal domestiqué par l'homme, issu du loup gris. Une recherche de 2021 dans PNAS suggère une domestication unique en Eurasie occidentale il y a 20 000 à 40 000 ans. Les chiens ont développé la capacité de suivre le regard humain — un talent absent chez les loups élevés en captivité — signe d'une co-évolution profonde.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 131,
+      "titre": "Hiroshima : 70 000 morts en un instant, le 6 août 1945",
+      "texte": "Le 6 août 1945 à 8h15, la bombe 'Little Boy' — à uranium 235, pesant 4 000 kg — fut larguée sur Hiroshima depuis le B-29 'Enola Gay'. Elle explosa à 600 m d'altitude avec une puissance de 15 kilotonnes TNT, tuant entre 70 000 et 80 000 personnes instantanément et détruisant 12 km². Au total, entre 90 000 et 140 000 personnes moururent avant fin 1945.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 132,
+      "titre": "Dolly la brebis, premier clone de mammifère en 1996",
+      "texte": "Le 5 juillet 1996, à l'Institut Roslin d'Édimbourg, Ian Wilmut et son équipe réalisèrent le clonage de Dolly, première brebis clonée à partir d'une cellule mammaire adulte — la première fois qu'un mammifère était cloné depuis une cellule somatique différenciée. L'annonce fut faite en février 1997. Dolly vécut 6 ans et eut 6 petits par reproduction sexuée naturelle.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 133,
+      "titre": "Le sable du Sahara fertilise l'Amazonie",
+      "texte": "Chaque année, les vents transportent environ 22 millions de tonnes de poussières du Sahara à travers l'Atlantique jusqu'au bassin amazonien — plus de 5 000 km. Ces poussières sont riches en phosphore, un nutriment essentiel peu présent dans les sols amazoniens. Cette découverte, quantifiée par la NASA en 2015, montre l'interdépendance des grands biomes terrestres.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 134,
+      "titre": "L'aspirine synthétisée en 1897 : le médicament du siècle",
+      "texte": "Le 10 août 1897, le chimiste Felix Hoffmann chez Bayer synthétisa l'acide acétylsalicylique (aspirine) à partir d'un extrait de saule connu depuis l'Antiquité. Commercialisée en 1899, elle devient le médicament le plus vendu au monde. En 2024, on en consomme environ 40 000 tonnes par an. Ses effets anticoagulants, élucidés dans les années 1970 par John Vane (Nobel 1982), l'ont maintenu au premier rang pharmaceutique.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 135,
+      "titre": "La synesthésie : entendre des couleurs",
+      "texte": "La synesthésie est un phénomène neurologique où la stimulation d'un sens déclenche involontairement une perception dans un autre sens. La forme la plus commune (graphème-couleur) concerne environ 1 % de la population : les lettres ou chiffres sont perçus en couleur. Des études d'IRMf depuis les années 1990 ont confirmé une activation croisée réelle. Wassily Kandinsky, Franz Liszt et Nikola Tesla étaient synesthètes.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 136,
+      "titre": "La Bibliothèque d'Alexandrie n'a pas brûlé en un jour",
+      "texte": "La Bibliothèque d'Alexandrie, fondée sous Ptolémée Ier vers 285 av. J.-C., aurait contenu entre 400 000 et 700 000 rouleaux de papyrus. Elle ne 'disparut' pas en un seul incendie : elle déclina progressivement entre le Ier siècle av. J.-C. (incendie partiel lors du siège de César) et le IVe-VIIe siècle apr. J.-C. (coupes budgétaires, fermeture des écoles philosophiques).",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 137,
+      "titre": "La pieuvre géante du Pacifique meurt en soignant ses œufs",
+      "texte": "La pieuvre géante du Pacifique (Enteroctopus dofleini), pouvant peser jusqu'à 71 kg, ne vit que 3 à 5 ans. La femelle pond entre 20 000 et 100 000 œufs, les surveille pendant 6 à 7 mois sans manger, nettoyant chaque œuf individuellement. Elle meurt d'épuisement après leur éclosion, et les mâles meurent quelques semaines après la reproduction.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 138,
+      "titre": "Le paradoxe de Fermi : où sont les extraterrestres ?",
+      "texte": "En 1950, lors d'un repas à Los Alamos, le physicien Enrico Fermi posa une question restée célèbre : 'Où sont-ils tous ?' Si l'univers a 13,8 milliards d'années et contient des milliards de planètes habitables, des civilisations extraterrestres devraient exister — et pourtant aucun signal n'a été détecté. Ce paradoxe a généré plus de 75 solutions hypothétiques depuis 1975.",
+      "categorie": "espace"
+    },
+    {
+      "id": 139,
+      "titre": "La Bible de Gutenberg : 49 exemplaires sur 180 subsistent",
+      "texte": "La Bible de Gutenberg, imprimée entre 1452 et 1455 à Mayence, fut le premier livre imprimé à caractères métalliques mobiles en Europe. Environ 180 exemplaires furent produits (48 sur vélin, 132 sur papier). Aujourd'hui, 49 exemplaires subsistent, dont 12 complets. En 2023, un seul volume fut estimé à plus de 10 millions de dollars aux enchères.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 140,
+      "titre": "La mémoire musculaire est dans le cervelet, pas les muscles",
+      "texte": "La 'mémoire musculaire' — savoir faire du vélo ou jouer d'un instrument sans y penser — n'est pas stockée dans les muscles mais dans le cervelet et les ganglions de la base. Cette mémoire procédurale implicite, décrite par Larry Squire dans les années 1980, résiste même aux amnésies sévères comme dans le cas d'Henry Molaison (H.M.), qui ne pouvait former aucun nouveau souvenir conscient.",
+      "categorie": "corps"
+    },
+    {
+      "id": 141,
+      "titre": "Le Z3 de Konrad Zuse : premier ordinateur programmable en 1941",
+      "texte": "Le 12 mai 1941, l'ingénieur allemand Konrad Zuse présenta le Z3 à Berlin — le premier ordinateur électromécanique pleinement programmable et Turing-complet. Il utilisait 2 600 relais téléphoniques et fonctionnait en binaire. Détruit lors d'un bombardement allié en 1943, il fut reconstruit en 1960 par Zuse lui-même. Conceptuellement, le Z3 était plus avancé que l'ENIAC américain de 1946.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 142,
+      "titre": "Alcock et Brown : première traversée de l'Atlantique en 1919",
+      "texte": "Le 14-15 juin 1919, les aviateurs britanniques John Alcock et Arthur Whitten Brown traversèrent l'Atlantique sans escale en 16h12min, depuis Terre-Neuve jusqu'en Irlande (3 040 km), à bord d'un Vickers Vimy bimoteur. Ils atterrirent dans une tourbière à Clifden. Charles Lindbergh ne traversa l'Atlantique en solitaire (5 800 km, New York-Paris) qu'en mai 1927.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 143,
+      "titre": "Les coraux sont des animaux qui abritent des plantes",
+      "texte": "Les coraux sont des animaux (Cnidaires) qui abritent en symbiose des algues microscopiques photosynthétiques (zooxanthelles) dans leurs tissus, fournissant jusqu'à 90 % de leur énergie. Le blanchiment des coraux est dû à l'expulsion des zooxanthelles lors d'un stress thermique (température > 29-30 °C pendant plusieurs semaines), laissant le corail blanc et vulnérable.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 144,
+      "titre": "La démocratie athénienne naît en 508 av. J.-C.",
+      "texte": "Les réformes de Clisthène en 508-507 av. J.-C. instaurèrent la démocratie à Athènes : l'Ecclésia (assemblée des citoyens mâles libres) se réunissait 40 fois par an pour voter les lois. Environ 30 000 citoyens y étaient éligibles sur une population totale de 250 000 — les femmes, esclaves et étrangers étant exclus. Le tirage au sort était utilisé pour la plupart des magistratures.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 145,
+      "titre": "Les baleines communiquent sur des milliers de kilomètres",
+      "texte": "Dans l'eau de mer à 25 °C, le son se propage à environ 1 500 m/s — 4,4 fois plus vite que dans l'air. Les baleines bleues exploitent le canal SOFAR, une couche d'eau à 800-1 000 m de profondeur où le son voyage en minimisant ses pertes, permettant des communications sur des milliers de kilomètres — l'équivalent de la téléphonie longue distance dans le monde animal.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 146,
+      "titre": "La Tour de Pise penchait depuis le départ",
+      "texte": "La construction de la Tour de Pise commença en 1173 et s'arrêta dès le troisième étage à cause de l'inclinaison du sol argileux. Cette interruption de 100 ans permit paradoxalement au sol de se consolider. L'inclinaison maximale fut de 5,5° en 1990. Une restauration (1990-2001) la ramena à 3,99° — son angle de 1838 — la sauvant définitivement de l'effondrement.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 147,
+      "titre": "L'hippocampe fabrique de nouveaux neurones toute la vie",
+      "texte": "L'hippocampe est l'une des rares régions du cerveau adulte où de nouveaux neurones se forment en continu — neurogenèse adulte, démontrée chez l'humain en 1998 par Peter Eriksson et Fred Gage. L'exercice physique aérobie stimule fortement ce processus. Le stress chronique et l'alcool, à l'inverse, le réduisent et atrophient l'hippocampe, expliquant partiellement les pertes de mémoire associées.",
+      "categorie": "corps"
+    },
+    {
+      "id": 148,
+      "titre": "Les Vikings en Amérique 492 ans avant Colomb",
+      "texte": "Des fouilles à L'Anse aux Meadows (Terre-Neuve, Canada) révélèrent en 1960-1961 des vestiges d'un établissement viking datés d'environ 1 000 apr. J.-C. — soit 492 ans avant le premier voyage de Christophe Colomb (1492). Ces ruines, fouillées par Helge et Anne Stine Ingstad, sont les seules preuves archéologiques incontestées de présence européenne précolombienne en Amérique du Nord.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 149,
+      "titre": "Les requins existent depuis 450 millions d'années",
+      "texte": "Les requins existent depuis au moins 450 millions d'années — apparus avant les dinosaures (230 millions d'années), les forêts d'arbres (385 millions d'années) et même avant que nos ancêtres ne colonisent la terre ferme. Ils ont survécu aux 5 extinctions de masse, dont la Grande Extinction du Permien (il y a 252 millions d'années) qui élimina 96 % des espèces marines.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 150,
+      "titre": "Le premier vaccin contre un cancer : Gardasil en 2006",
+      "texte": "En juin 2006, la FDA approuva Gardasil (Merck), premier vaccin contre un cancer : il prévient le cancer du col de l'utérus en immunisant contre 4 souches de papillomavirus humain (HPV). Développé notamment par Ian Frazer et Jian Zhou, ce vaccin réduit de 70 % le risque de cancer du col. En 2023, un vaccin nonavalent protège contre 9 souches responsables de 90 % des cancers liés au HPV.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 151,
+      "titre": "Le zéro inventé en Inde au VIIe siècle",
+      "texte": "Le concept de zéro comme nombre fut formalisé par le mathématicien indien Brahmagupta en 628 apr. J.-C. dans son traité 'Brahmasphutasiddhanta'. Il fut adopté par les mathématiciens arabes (Al-Khwarizmi, IXe siècle) et n'atteignit l'Europe qu'au XIIe siècle via Fibonacci. Sans le zéro, l'algèbre, l'informatique binaire et la physique quantique n'existeraient pas sous leur forme actuelle.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 152,
+      "titre": "Le lac Baïkal : le plus ancien et plus profond du monde",
+      "texte": "Le lac Baïkal (Sibérie) est le lac le plus profond (1 642 m), le plus ancien (25 à 30 millions d'années) et contient 20 % de toutes les réserves d'eau douce liquide de surface de la planète. Plus de 1 700 espèces animales y vivent, dont 80 % sont endémiques, comme le phoque du Baïkal (Pusa sibirica), le seul phoque d'eau douce au monde.",
+      "categorie": "geographie"
+    },
+    {
+      "id": 153,
+      "titre": "Le principe d'incertitude de Heisenberg : une limite fondamentale",
+      "texte": "En 1927, Werner Heisenberg formula le principe d'incertitude : il est physiquement impossible de connaître simultanément avec précision la position et la quantité de mouvement d'une particule. Ce n'est pas une limitation technologique mais une propriété fondamentale de la réalité quantique. Ce principe explique notamment la stabilité des atomes : les électrons ne peuvent 's'effondrer' sur le noyau.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 154,
+      "titre": "La première photographie connue : Niépce en 1826",
+      "texte": "La plus ancienne photographie connue est 'Point de vue du Gras', prise en 1826 ou 1827 par Joseph Nicéphore Niépce depuis la fenêtre de sa propriété en Bourgogne. Elle fut réalisée sur une plaque d'étain enduite de bitume de Judée avec une exposition de plusieurs heures. On y devine vaguement des toits et un arbre. Elle est conservée à l'université du Texas à Austin.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 155,
+      "titre": "Marie Curie : deux Prix Nobel dans deux disciplines",
+      "texte": "Marie Curie (née Sklodowska, 1867-1934) reçut le Nobel de physique en 1903 (avec Pierre Curie et Henri Becquerel) pour la découverte de la radioactivité, puis le Nobel de chimie en 1911 pour l'isolement du polonium et du radium. Elle est la seule personne à ce jour à avoir reçu deux Nobel dans deux disciplines scientifiques différentes. Elle mourut en 1934 d'une anémie aplastique causée par les radiations.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 156,
+      "titre": "Les fourmis charpentières pratiquent la chirurgie",
+      "texte": "Une étude publiée en juin 2024 dans Current Biology révèle que les fourmis charpentières de Floride (Camponotus floridanus) amputent les membres blessés de leurs congénères pour prévenir les infections — une forme de chirurgie médicale adaptative. Elles choisissent entre amputation et traitement par léchage selon la localisation de la blessure, avec un taux de survie de 90 % après amputation.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 157,
+      "titre": "Les plaques tectoniques bougent à la vitesse des ongles",
+      "texte": "Les plaques tectoniques se déplacent à 2 à 15 cm par an — comparable à la vitesse de croissance des ongles humains. Il y a 250 millions d'années, tous les continents actuels formaient la Pangée. Dans 250 millions d'années, les modèles prévoient la formation d'un nouveau supercontinent (Pangée Proxima ou Amasia) par fermeture de l'océan Pacifique.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 158,
+      "titre": "Le premier antidépresseur découvert par accident en 1952",
+      "texte": "L'iproniazide, premier antidépresseur cliniquement utilisé, fut découvert en 1952 lors d'essais sur des médicaments antituberculeux à l'hôpital Sea View de Staten Island. Les médecins remarquèrent que les patients tuberculeux traités devenaient inhabituellement euphoriques et dansaient dans les couloirs. Cette observation fortuite conduisit à l'hypothèse monoaminergique de la dépression.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 159,
+      "titre": "L'effet Coriolis explique la rotation des cyclones",
+      "texte": "L'effet Coriolis, décrit mathématiquement par Gaspard-Gustave Coriolis en 1835, est la déviation des objets en mouvement causée par la rotation de la Terre. Dans l'hémisphère nord, il fait tourner les cyclones dans le sens antihoraire ; dans l'hémisphère sud, dans le sens horaire. En revanche, son influence sur l'écoulement des baignoires est trop faible pour être observable.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 160,
+      "titre": "La Grande Muraille de Chine a été construite sur 2 000 ans",
+      "texte": "La Grande Muraille n'a pas été construite d'un seul élan : elle résulte de fortifications successives sur plus de 2 000 ans. Les premières sections remontent à environ 771 av. J.-C. Qin Shi Huang relia les murs existants vers 220 av. J.-C. Les sections les plus spectaculaires — en brique et pierre — furent construites sous la dynastie Ming (XIVe-XVIIe siècles). La muraille mesure au total plus de 21 000 km.",
+      "categorie": "histoire"
+    },
+    {
+      "id": 161,
+      "titre": "Le lait maternel change de composition selon l'heure",
+      "texte": "Le lait maternel n'est pas uniforme : sa composition varie selon l'heure de la tétée. Le lait produit le soir et la nuit contient des taux plus élevés de mélatonine, de tryptophane et de nucléotides sédatifs — favorisant le sommeil du nourrisson. Le lait du matin contient davantage de cortisol et de molécules stimulantes. Certains chercheurs recommandent de noter l'heure lors de la congélation.",
+      "categorie": "corps"
+    },
+    {
+      "id": 162,
+      "titre": "Première greffe de rein réussie entre jumeaux en 1954",
+      "texte": "Le 23 décembre 1954, le chirurgien américain Joseph Murray réalisa la première transplantation rénale réussie à long terme entre jumeaux identiques à l'Hôpital Peter Bent Brigham de Boston. Le receveur, Richard Herrick, vécut encore 8 ans. Murray reçut le Prix Nobel de médecine en 1990. Le défi de l'immunosuppression pour les donneurs non-identiques ne fut résolu qu'avec la cyclosporine en 1976.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 163,
+      "titre": "La vache fermente 200 litres de contenu dans son rumen",
+      "texte": "Les ruminants (vaches, moutons, girafes) possèdent un estomac divisé en quatre compartiments : rumen, réseau, feuillet et caillette. Une vache adulte régurgite et remâche son bol entre 6 et 8 heures par jour. Son rumen contient jusqu'à 200 litres de contenu fermenté et une communauté microbienne de plus de 10 milliards d'organismes par gramme.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 164,
+      "titre": "Le premier télégramme transatlantique : 17 heures pour 98 mots",
+      "texte": "Le 16 août 1858, le président américain James Buchanan et la reine Victoria échangèrent les premiers télégrammes via le câble transatlantique posé entre Terre-Neuve et l'Irlande. Le message de Buchanan (98 mots) mit 17 heures à transmettre. Le câble se dégrada rapidement et cessa de fonctionner après seulement 3 semaines d'utilisation.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 165,
+      "titre": "L'ISS : 15,5 orbites par jour à 27 600 km/h",
+      "texte": "L'ISS, construite module par module entre 1998 et 2011, pèse environ 420 tonnes, mesure 109 m de long et orbite à 400 km d'altitude à 27 600 km/h. Elle effectue 15,5 orbites par jour. Depuis novembre 2000, elle n'a jamais été inoccupée. Plus de 270 astronautes de 20 pays y ont séjourné pour un total de plus de 130 expéditions.",
+      "categorie": "espace"
+    },
+    {
+      "id": 166,
+      "titre": "L'abeille africanisée : accident de laboratoire au Brésil en 1957",
+      "texte": "L'abeille africanisée ('tueuse') résulte d'un accident de laboratoire au Brésil en 1957 : le généticien Warwick Kerr introduisit des reines d'abeilles africaines pour améliorer la production de miel. Vingt-six essaims s'échappèrent accidentellement et se reproduisirent avec les abeilles locales. Depuis, ces hybrides ont colonisé toutes les Amériques et sont responsables de centaines de morts humaines.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 167,
+      "titre": "Le premier tramway électrique : Berlin en 1881",
+      "texte": "Le premier tramway électrique commercial au monde fut inauguré le 16 mai 1881 à Lichterfelde, près de Berlin, conçu par Werner von Siemens. La ligne de 2,45 km transportait 26 passagers. En 1888, Frank Sprague perfectionna le système à Richmond (Virginie) avec une caténaire aérienne, créant le modèle qui s'imposa dans le monde entier.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 168,
+      "titre": "Le Soleil convertit 4 millions de tonnes en énergie chaque seconde",
+      "texte": "Le Soleil convertit chaque seconde environ 600 millions de tonnes d'hydrogène en 596 millions de tonnes d'hélium par fusion nucléaire. Les 4 millions de tonnes 'manquantes' sont converties en énergie selon E=mc² (Einstein, 1905). Cette fusion se produit au cœur du Soleil à 15 millions de degrés Celsius et sous une pression 250 milliards de fois supérieure à la pression atmosphérique terrestre.",
+      "categorie": "espace"
+    },
+    {
+      "id": 169,
+      "titre": "L'UPU : la première organisation internationale permanente en 1874",
+      "texte": "L'Union Postale Universelle (UPU), fondée le 9 octobre 1874 à Berne par 22 pays, est la première organisation intergouvernementale permanente de l'histoire — elle précède la Société des Nations (1920) et l'ONU (1945). Elle standardisa les tarifs postaux internationaux et fut intégrée à l'ONU en 1948. Elle compte aujourd'hui 192 membres.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 170,
+      "titre": "La mort cellulaire programmée sculpte nos doigts",
+      "texte": "L'apoptose est la mort cellulaire 'programmée' — un suicide ordonné déclenché par des signaux internes. Chaque seconde, entre 1 et 3 millions de cellules meurent par apoptose dans le corps humain. Ce mécanisme, découvert par John Kerr en 1972, est essentiel au développement embryonnaire : il sculpte les doigts en éliminant la membrane interdigitale chez le fœtus entre la 6e et la 8e semaine.",
+      "categorie": "corps"
+    },
+    {
+      "id": 171,
+      "titre": "L'hélium découvert dans le Soleil avant la Terre",
+      "texte": "L'hélium fut découvert dans le Soleil avant de l'être sur Terre. Le 18 août 1868, l'astronome français Jules Janssen observa une raie spectrale jaune inconnue dans la chromosphère solaire lors d'une éclipse en Inde. Norman Lockyer et Edward Frankland nommèrent l'élément 'hélium' (du grec Hélios) en 1871. Ce n'est qu'en 1895 que William Ramsay l'isola d'un minerai d'uranium terrestre.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 172,
+      "titre": "Les termites construisent des tours de 9 mètres",
+      "texte": "Les termites champignonnistes africains (Macrotermes bellicosus) construisent des termitières atteignant 9 m de haut — l'équivalent, à leur échelle, d'un bâtiment de 1,5 km. Ces structures maintiennent une température intérieure constante de 30 °C grâce à un réseau de cheminées de ventilation passive. Ce système bioclimatique est aujourd'hui étudié par des architectes pour concevoir des bâtiments sans climatisation.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 173,
+      "titre": "Bertrand Piccard : premier tour du monde en ballon en 1999",
+      "texte": "Le 20 mars 1999, le psychiatre suisse Bertrand Piccard et le pilote britannique Brian Jones atterrirent en Égypte après 19 jours, 21 heures et 55 minutes de vol — complétant le premier tour du monde en ballon sans escale à bord du Breitling Orbiter 3. Ils parcoururent 45 755 km à une altitude maximale de 11 737 m.",
+      "categorie": "records"
+    },
+    {
+      "id": 174,
+      "titre": "La première greffe de cœur : Christiaan Barnard en 1967",
+      "texte": "Le 3 décembre 1967, le chirurgien sud-africain Christiaan Barnard réalisa à Cape Town la première transplantation cardiaque humaine. Le receveur, Louis Washkansky, 53 ans, survécut 18 jours avant de mourir d'une pneumonie liée à l'immunosuppression. Le second patient de Barnard, Philip Blaiberg, vécut 594 jours avec son nouveau cœur.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 175,
+      "titre": "Le phytoplancton produit la moitié de notre oxygène",
+      "texte": "Le phytoplancton marin — organismes microscopiques photosynthétiques — produit entre 50 et 80 % de l'oxygène atmosphérique terrestre. La Prochlorococcus, une cyanobactérie de 0,6 micromètre découverte en 1986, est l'organisme photosynthétique le plus abondant sur Terre et contribue seule à environ 20 % de toute la photosynthèse planétaire.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 176,
+      "titre": "La première radio commerciale diffuse une élection en 1920",
+      "texte": "Le 2 novembre 1920, la station KDKA de Pittsburgh diffusa les résultats de l'élection présidentielle Harding vs. Cox — considéré comme la première émission de radio commerciale régulière. En 1921, il existait 5 stations radio américaines. En 1923, elles étaient 556. En 1938, la diffusion d'Orson Welles de 'La Guerre des mondes' paniqua des milliers d'auditeurs croyant à une vraie invasion martienne.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 177,
+      "titre": "Apprendre sous l'eau : le contexte influence la mémoire",
+      "texte": "Une expérience de Duncan Godden et Alan Baddeley (1975) montra que des plongeurs mémorisaient mieux des mots sous l'eau si leur rappel avait lieu également sous l'eau, et mieux sur terre si le rappel était sur terre. Ce 'contexte-dépendance' fonctionne aussi avec les états émotionnels : les souvenirs tristes sont plus facilement rappelés quand on est triste.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 178,
+      "titre": "Le premier tour du monde à la voile en solitaire : Joshua Slocum en 1898",
+      "texte": "Du 24 avril 1895 au 3 juillet 1898, l'Américano-Canadien Joshua Slocum réalisa le premier tour du monde à la voile en solitaire à bord du Spray, un sloop de 11 m reconstruit de ses mains. Il couvrit 74 000 km en 3 ans, 2 mois et 2 jours. Son récit 'Sailing Alone Around the World' (1900) est considéré comme un chef-d'œuvre de la littérature maritime.",
+      "categorie": "records"
+    },
+    {
+      "id": 179,
+      "titre": "La chimiothérapie née d'une tragédie de guerre en 1943",
+      "texte": "La chimiothérapie naquit d'une catastrophe : le 2 décembre 1943, lors du bombardement du port de Bari (Italie), le navire américain SS John Harvey chargé secrètement de gaz moutarde souffrit. Les survivants exposés avaient leurs leucocytes massivement détruits. Cela conduisit Louis Goodman et Alfred Gilman à tester des moutardes azotées contre les lymphomes en 1944 — la première chimiothérapie anticancéreuse.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 180,
+      "titre": "J0529-4351 : l'objet le plus lumineux de l'univers connu",
+      "texte": "J0529-4351, un quasar découvert en 2024 à l'aide du Very Large Telescope (VLT) de l'ESO, est l'objet le plus lumineux connu. Son trou noir central dévore l'équivalent d'un Soleil par jour et émet une énergie égale à 500 000 milliards de Soleils. Situé à 12 milliards d'années-lumière, son disque d'accrétion mesure 7 années-lumière de diamètre.",
+      "categorie": "espace"
+    },
+    {
+      "id": 181,
+      "titre": "L'alphabet inventé par des ouvriers sémites vers 1850 av. J.-C.",
+      "texte": "Le proto-sinaïtique, ancêtre de tous les alphabets modernes, fut développé vers 1850-1550 av. J.-C. par des travailleurs sémitiques dans les mines de turquoise du Sinaï. Ces ouvriers adaptèrent les hiéroglyphes égyptiens pour créer un système phonétique simplifié. L'alphabet phénicien (vers 1050 av. J.-C.) donna ensuite naissance aux alphabets grec, latin, arabe et hébreu.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 182,
+      "titre": "Le virus de la grippe mute un million de fois plus vite que l'ADN humain",
+      "texte": "Le virus Influenza mute à un rythme environ un million de fois supérieur à celui de l'ADN humain. Ses protéines de surface — hémagglutinine (H) et neuraminidase (N) — mutent continuellement (dérive antigénique) ou échangent des segments entiers lors d'une co-infection (glissement antigénique). C'est pourquoi le vaccin anti-grippal doit être reformulé chaque année sur la base des prévisions de l'OMS.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 183,
+      "titre": "Le premier parc national au monde : Yellowstone en 1872",
+      "texte": "La première loi nationale de protection de l'environnement industriel fut le British Alkali Act de 1863. Le premier parc national au monde, Yellowstone, fut créé aux États-Unis le 1er mars 1872 par le président Ulysses S. Grant — protégeant 8 983 km² de geysers, sources chaudes et faune sauvage. Ce modèle de conservation fut ensuite imité par plus de 100 pays.",
+      "categorie": "civilisation"
+    },
+    {
+      "id": 184,
+      "titre": "Le cerveau prédit l'avenir en permanence",
+      "texte": "Le cerveau ne traite pas passivement les stimuli sensoriels — il prédit constamment ce qui va se passer et compare ses prédictions avec les données entrantes. Ce modèle de 'codage prédictif', développé par Karl Friston depuis 2005, suggère que ce que nous percevons est principalement une hallucination contrôlée corrigée par les sensations. Seules les erreurs de prédiction (ce qui surprend) sont réellement traitées.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 185,
+      "titre": "Saliout 1 : trois cosmonautes meurent au retour de la première station spatiale",
+      "texte": "Le 19 avril 1971, l'URSS lança Saliout 1, première station spatiale habitée. Elle accueillit l'équipage de Soyouz 11 pendant 23 jours — un record. Tragiquement, les trois cosmonautes moururent lors du retour le 30 juin 1971 : une valve de pressurisation s'ouvrit par erreur dans l'espace, dépressurisant la capsule en 112 secondes. Ils furent retrouvés à leur poste, sans trace de lutte.",
+      "categorie": "espace"
+    },
+    {
+      "id": 186,
+      "titre": "L'Osborne 1 : premier ordinateur portable en 1981",
+      "texte": "Le premier ordinateur portable commercialement disponible fut l'Osborne 1, lancé en avril 1981 au prix de 1 795 dollars. Il pesait 11 kg et avait un écran de 5 pouces. Vendu à 10 000 unités par mois, la société fit faillite en 1983 après l'annonce prématurée d'un successeur — ce phénomène prit le nom d''effet Osborne' dans le monde des affaires.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 187,
+      "titre": "La première anesthésie chirurgicale : Boston, 16 octobre 1846",
+      "texte": "La première démonstration publique d'une anesthésie à l'éther eut lieu le 16 octobre 1846 dans le 'Dôme Éther' du Massachusetts General Hospital de Boston. Le dentiste William Morton anesthésia Gilbert Abbott pour une ablation de tumeur cervicale. Ce jour fut surnommé 'Ether Day'. Avant cette date, toute chirurgie se pratiquait sur des patients pleinement conscients et contraints.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 188,
+      "titre": "Koko la gorille parlait 1 000 signes et en comprenait 2 000",
+      "texte": "Koko, une gorille femelle (1971-2018), fut élevée par la primatologue Francine Patterson à l'université de Stanford. Elle apprit environ 1 000 signes de l'ASL (American Sign Language) et en comprenait environ 2 000. Elle exprima des émotions complexes, inventant des néologismes par composition comme 'bague-doigt' ou 'tigre-chat-rouge' pour désigner des objets nouveaux.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 189,
+      "titre": "Watson et Crick annoncent la double hélice dans un pub en 1953",
+      "texte": "Le 28 février 1953, James Watson et Francis Crick annoncèrent à leurs collègues au Eagle Pub de Cambridge : 'Nous avons découvert le secret de la vie.' Leur article dans Nature du 25 avril 1953 décrivit la structure en double hélice de l'ADN, basée en grande partie sur la 'Photo 51' de Rosalind Franklin — consultée sans son accord. Franklin mourut en 1958, quatre ans avant que Watson, Crick et Wilkins reçoivent le Nobel.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 190,
+      "titre": "Le Concorde : Paris-New York en 3h30 de 1976 à 2003",
+      "texte": "Le 21 janvier 1976, le Concorde inaugura ses liaisons commerciales sur Paris-Dakar (Air France) et Londres-Bahreïn (British Airways). Il rejoignit New York le 24 mai 1976. Volant à Mach 2,04 (2 179 km/h) à 18 000 m d'altitude, il traversait l'Atlantique en 3h30. L'arrêt du Concorde le 26 novembre 2003 fit suite à l'accident du vol Air France 4590 en 2000 et aux difficultés économiques post-11 Septembre.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 191,
+      "titre": "Le Projet Génome Humain révèle 20 000 gènes en 2003",
+      "texte": "Le Projet Génome Humain, lancé en 1990 et finalisé le 14 avril 2003, produisit la première séquence complète du génome humain (3,2 milliards de paires de bases) par un consortium de 20 centres. Il révéla que les humains n'ont que 20 000 à 25 000 gènes codants — bien moins que les 100 000 prédits — et que 98,5 % de notre ADN ne code aucune protéine.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 192,
+      "titre": "Les arbres communiquent via le 'Wood Wide Web'",
+      "texte": "Les arbres d'une forêt sont reliés par des réseaux mycorrhiziens souterrains — des filaments fongiques connectant les racines de différents arbres. Surnommé 'Wood Wide Web' par la biologiste Suzanne Simard (UBC Vancouver) depuis ses recherches des années 1990, ce réseau permet des échanges de nutriments (carbone, azote, phosphore) entre arbres, notamment des arbres mères vers leurs jeunes semis.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 193,
+      "titre": "L'apoptose : chaque seconde, des millions de cellules se suicident",
+      "texte": "L'apoptose est la mort cellulaire 'programmée' — un suicide ordonné essentiel à la santé. Chaque seconde, entre 1 et 3 millions de cellules meurent par apoptose dans le corps humain. Ce mécanisme élimine les cellules endommagées ou potentiellement cancéreuses. Quand l'apoptose déraille, les cellules continuent de proliférer sans contrôle : c'est le mécanisme fondamental du cancer.",
+      "categorie": "corps"
+    },
+    {
+      "id": 194,
+      "titre": "Le premier antibiotique systémique : les sulfamides de Domagk en 1935",
+      "texte": "Avant la pénicilline commercialisée en 1945, le premier antibactérien systémique fut le Prontosil, un sulfamide synthétisé par Gerhard Domagk chez Bayer en 1932 et testé cliniquement en 1935. Il sauva notamment la vie du propre fils de Domagk d'une infection streptococcique. Domagk reçut le Nobel en 1939 — mais le régime nazi l'obligea à refuser le prix qu'il n'accepta officiellement qu'en 1947.",
+      "categorie": "inventions"
+    },
+    {
+      "id": 195,
+      "titre": "Les manchots ont évolué sans craindre les humains",
+      "texte": "Les manchots ont perdu l'usage du vol il y a environ 60 millions d'années en adaptant leurs ailes en nageoires. Évoluant en Antarctique en l'absence totale de prédateurs terrestres, ils développèrent une absence de méfiance envers les humains. C'est pourquoi les premiers explorateurs antarctiques purent les approcher et les tuer facilement à la massue — une caractéristique qui faillit provoquer leur extinction.",
+      "categorie": "animaux"
+    },
+    {
+      "id": 196,
+      "titre": "La double hélice de l'ADN : une révolution le 25 avril 1953",
+      "texte": "L'article de Watson et Crick publié dans Nature le 25 avril 1953 décrivait la structure en double hélice de l'ADN avec une modestie feinte : 'Il ne nous a pas échappé que l'appariement spécifique que nous avons postulé suggère immédiatement un mécanisme possible de copie du matériel génétique.' Cette formule est considérée comme l'understatement le plus célèbre de l'histoire des sciences.",
+      "categorie": "sciences"
+    },
+    {
+      "id": 197,
+      "titre": "Le premier réseau de surveillance nucléaire détecte Nord Stream",
+      "texte": "Le Traité d'Interdiction Complète des Essais nucléaires (1996) a créé un réseau mondial de 337 stations de surveillance capables de détecter toute explosion sur Terre, sous l'eau ou dans l'atmosphère. En septembre 2022, ces stations permirent de détecter les explosions du gazoduc Nord Stream à plus de 2 400 km de distance, apportant des données cruciales pour l'enquête internationale.",
+      "categorie": "technologies"
+    },
+    {
+      "id": 198,
+      "titre": "L'effet de contexte émotionnel sur la mémoire",
+      "texte": "La mémoire état-dépendante, documentée depuis les années 1970, montre que les souvenirs formés dans un état émotionnel ou physiologique particulier sont plus facilement rappelés dans cet même état. Des études sur des plongeurs, des personnes intoxiquées à l'alcool et des individus en état de stress aigu confirment toutes ce phénomène, qui a des implications directes sur les témoignages judiciaires.",
+      "categorie": "psychologie"
+    },
+    {
+      "id": 199,
+      "titre": "Proxima Centauri : notre voisine à 4,24 années-lumière",
+      "texte": "Proxima Centauri, l'étoile la plus proche du Soleil, est à 4,24 années-lumière — soit 40 200 milliards de km. Avec nos sondes les plus rapides (New Horizons : 58 000 km/h), il faudrait environ 78 000 ans pour l'atteindre. En 2016, on y découvrit une exoplanète (Proxima b) dans la zone habitable de son étoile, relançant les spéculations sur une vie extrasolaire voisine.",
+      "categorie": "espace"
+    },
+    {
+      "id": 200,
+      "titre": "L'écriture cunéiforme : 5 000 ans d'histoire en argile",
+      "texte": "L'écriture cunéiforme, née à Sumer (actuel Irak) vers 3 200 av. J.-C., fut utilisée pendant plus de 3 000 ans pour une dizaine de langues différentes — sumérienne, akkadienne, babylonienne, hittite, élamite. Inscrite dans des tablettes d'argile avec un calame à section triangulaire, elle disparut progressivement au profit de l'alphabet araméen au Ier siècle de notre ère. Environ 500 000 tablettes subsistent dans les musées du monde.",
+      "categorie": "civilisation"
+    }
+  ]
+}
